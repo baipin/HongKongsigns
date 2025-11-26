@@ -59,7 +59,7 @@ Search for the "baipinHongKongsigns" Mod.
 Select a layout and customize it to your liking.
 
 ## Customize and Save Signs
-Select the root object → Save & Export as XML
+Select the root object → Save & Export as XML.
 Templates can be reused across cities and saves.
 All templates are stored locally so no re-import required.
 
