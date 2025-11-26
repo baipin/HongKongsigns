@@ -34,4 +34,5 @@ This mod is in beta version, and it will be updated frequently these days. Anywa
 
 ## Download
 You can download from [Paradox Mods Platform](https://mods.paradoxplaza.com/mods/125896/Windows).
+
 I will give a release bag when the formal version of my mod come out. Anyway, it's no need for you to clone  or download the repository to install the mod.
