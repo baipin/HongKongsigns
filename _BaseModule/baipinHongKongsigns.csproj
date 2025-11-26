@@ -17,7 +17,7 @@
 
   <PropertyGroup>
     <IsBelzontCommonsMod>false</IsBelzontCommonsMod>
-    <ModId></ModId>
+    <ModId>125896</ModId>
     <Version>0.0.1.1</Version>
     <GameVersion>1.*</GameVersion>
     <ThumbnailPath>Properties/Thumbnail.png</ThumbnailPath>
@@ -91,6 +91,7 @@
 	<ItemGroup>
 		<None Include="$(ModPropsFile)" Link="Properties\Mod.props" />
 		<None Include="$(ModTargetsFile)" Link="Properties\Mod.targets" />
+		<None Include="Properties\PublishProfiles\PublishNewMod.pubxml.user" />
 	</ItemGroup>
 
   <ItemGroup>
