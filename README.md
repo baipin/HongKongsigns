@@ -17,6 +17,7 @@
 - [Introduction](#introduction)
 - [Download](#download)
 - [Changelog](#changelog)
+- [How to Use](#howtouse)
 - [Notes](#Notes)
 
 
@@ -46,6 +47,21 @@ I will give a release bag when the formal version of my mod come out. Anyway, it
   > 2)Fix the problem that some pictures are too big for WE mod.
 * V0.0.1.0
   > First upload, Mod ID got.
+
+## How to Use
+Install all required mods listed below.
+Place a road structure (e.g. "European No Entry sign" for Round Micro Signs) that matches your sign type.
+Open the Write Everywhere menu (CTRL + Shift + W).
+Click the structure you want to edit.
+Click Import layout from XML at root...
+Choose the puzzle-piece icon (Templates from mods).
+Search for the "baipinHongKongsigns" Mod.
+Select a layout and customize it to your liking.
+
+## Customize and Save Signs
+Select the root object → Save & Export as XML
+Templates can be reused across cities and saves.
+All templates are stored locally so no re-import required.
 
 ## Notes
 The Chinese font included in this mod is "匯文港黑". The font is free to use and the combination into the module is allowed by its license.
