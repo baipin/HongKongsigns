@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://mdx.flyhigher.top" target="_blank">Hong Kong Signs Pack</a></h1>
+<h1 align="center"><a href="https://baipin.pw" target="_blank">Hong Kong Signs Pack</a></h1>
 
 > a Mod based on Write Everywhere of Cities:skylines2.
 
@@ -24,7 +24,7 @@
 This is a repository for Cities:skylines 2 mod: Hong Kong Signs [Write Everywhere]
 
 ># ⚠️Important Notice
-This mod is in beta version, and it will be updated frequently these days. Anyway, you can download and take an early look.
+>This mod is in beta version, and it will be updated frequently these days. Anyway, you can download and take an early look.
 
 ### Outdtanding Features
 * Combined with a free Chinese font ("滙文港黑"), supporting Traditional Chinese, Simplified Chinese and English. You don't need to import font by yourself.
