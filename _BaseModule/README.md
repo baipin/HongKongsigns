@@ -20,7 +20,7 @@ You need to import Chinese font included in the mod by yourself. But it is very 
 ## How to Use
 1️⃣Install all required mods listed below.  
 2️⃣Place a road structure (e.g. "European No Entry sign" for Round Micro Signs) that matches your sign type.  
-   See [List for Layouts](https://github.com/baipin/HongKongsigns#List) for details.
+   See [List for Layouts](https://github.com/baipin/HongKongsigns#List) for details.  
 3️⃣Open the Write Everywhere menu (CTRL + Shift + W).  
 4️⃣Click the structure you want to edit.  
 5️⃣Click Import layout from XML at root...  

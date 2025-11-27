@@ -23,7 +23,7 @@ You need to import Chinese font included in the mod by yourself. But it is very 
 ## How to Use
 1️⃣Install all required mods listed below.  
 2️⃣Place a road structure (e.g. "European No Entry sign" for Round Micro Signs) that matches your sign type.  
-   See [List for Layouts](https://github.com/baipin/HongKongsigns#List) for details.
+   See [List for Layouts](https://github.com/baipin/HongKongsigns#List) for details.  
 3️⃣Open the Write Everywhere menu (CTRL + Shift + W).  
 4️⃣Click the structure you want to edit.  
 5️⃣Click Import layout from XML at root...  
@@ -40,22 +40,18 @@ You need to import Chinese font included in the mod by yourself. But it is very 
 The Chinese font included in this mod is "匯文港黑". The font is free to use and the combination into the module is allowed by its license.</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-pack-write-everywhere.1881255/" />
-  <ModVersion Value="0.0.1.4" />
+  <ModVersion Value="0.0.1.5" />
   <GameVersion Value="1.*" />
-  <ChangeLog>** v0.0.1.4 **
-	### Added
-- Overhead direction signs.
+  <ChangeLog>**v0.0.1.5**
+### Added
+- More Overhead direction signs.
 - More warning signs.
-- Layouts for overhead.  
-
-	### Fixed
-- Fixed the problem that the backside of the round micro signs points to empty.
-
-    ### Optimize
-- Introduction and screenshots of the mod.</ChangeLog>
+- More layouts for overhead signs.  
+- More marks, including hospital and circle directions.</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshots_1.jpg" />
   <Screenshot Value="Screenshots\Screenshots_2.jpg" />
+  <Screenshot Value="Screenshots\Screenshots_3.jpg" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
   <ExternalLink Type="github" Url="https://github.com/baipin/HongKongsigns" />
   <ExternalLink Type="buymeacoffee" Url="https://buymeacoffee.com/baipin" />

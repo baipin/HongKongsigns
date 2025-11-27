@@ -1,11 +1,6 @@
-** v0.0.1.4 **
-	### Added
-- Overhead direction signs.
+**v0.0.1.5**
+### Added
+- More Overhead direction signs.
 - More warning signs.
-- Layouts for overhead.  
-
-	### Fixed
-- Fixed the problem that the backside of the round micro signs points to empty.
-
-    ### Optimize
-- Introduction and screenshots of the mod.
+- More layouts for overhead signs.  
+- More marks, including hospital and circle directions.
