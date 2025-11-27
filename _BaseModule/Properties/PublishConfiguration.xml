@@ -33,14 +33,15 @@ The Chinese font included in this mod is "匯文港黑". The font is free to use
   <ModVersion Value="0.0.1.2" />
   <GameVersion Value="1.*" />
   <ChangeLog># v0.0.1.2
-		\&amp;lt; Upload more signs and layouts.\&amp;gt;
+		1）Upload more signs and layouts.
+		2）Fix some pictures whose backgound are not transparent.
 #  v0.0.1.1
-		\&amp;lt;1)Upload layouts and free Chinese fonts.
+		1)Upload layouts and free Chinese fonts.  
 		2)Fix the problem that some pictures are too big for WE mod.
-		\&amp;gt;
 # V0.0.1.0
-		\&amp;lt; First upload, Mod ID got.\&amp;gt;</ChangeLog>
+		First upload, Mod ID got.</ChangeLog>
   <Tag Value="Code Mod" />
+  <Screenshot Value="Screenshots\Screenshots_2.jpg" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
   <ExternalLink Type="github" Url="https://github.com/baipin/HongKongsigns" />
   <ExternalLink Type="buymeacoffee" Url="https://buymeacoffee.com/baipin" />
