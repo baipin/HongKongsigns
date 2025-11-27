@@ -11,7 +11,7 @@
     </transform>
     <imageMesh atlas="baipinHongKongsigns:WarningSigns">
       <mesh></mesh>
-      <image>sped_Ahead</image>
+      <image>Sped XX Ahead</image>
     </imageMesh>
     <defaultStyle>
       <color>FFFFFFFF</color>
