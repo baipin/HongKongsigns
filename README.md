@@ -30,6 +30,7 @@ This is a repository for Cities:skylines 2 mod: Hong Kong Signs [Write Everywher
 ># ⚠️Important Notice
 >This mod is in beta version, and it will be updated frequently these days. Anyway, you can download and take an early look.
 
+
 ### Outdtanding Features
 * Combined with a free Chinese font ("滙文港黑"), supporting Traditional Chinese, Simplified Chinese and English. You don't need to import font by yourself.
 * Covering various kinds of traffic signs in Hong Kong, and it can also be used as UK signs pack.
@@ -40,6 +41,15 @@ This is a repository for Cities:skylines 2 mod: Hong Kong Signs [Write Everywher
 You can download from [Paradox Mods Platform](https://mods.paradoxplaza.com/mods/125896/Windows).
 
 I will give a release bag when the formal version of my mod come out. Anyway, it's no need for you to clone  or download the repository to install the mod.
+
+## Important: After adding to platset...
+You need to import Chinese font included in the mod by yourself. But it is very easy, just do like this:  
+* Enter your savegame.
+* Click the Write Everywhere buttom on the left-top (A circled "W").
+* Choose "CITY FONTS" tab.
+* Click "+", choose the puzzle-piece icon (Templates from mods). And search for the "baipinHongKongsigns" Mod.  
+* Select "Huiwenganghei.ttf", click "OK".
+* You are done!
 
 ## Changelog
 
