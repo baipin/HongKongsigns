@@ -8,7 +8,7 @@ The mod is in beta version, and it will be updated frequently these days. Anyway
 * **Non-illustration Traffic Bollard (NRTB, 安全島反光板)** is included, and it's very realistic!
 * **Very convenient to use.** The template is already there, and you just need to change the texts.
 
-## Important: After adding to platset...
+## Important: After adding to playset...
 You need to import Chinese font included in the mod by yourself. But it is very easy, just do like this:  
 * Enter your savegame.
 * Click the Write Everywhere buttom on the left-top (A circled "W").

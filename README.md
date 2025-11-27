@@ -42,7 +42,7 @@ You can download from [Paradox Mods Platform](https://mods.paradoxplaza.com/mods
 
 I will give a release bag when the formal version of my mod come out. Anyway, it's no need for you to clone  or download the repository to install the mod.
 
-## Important: After adding to platset...
+## Important: After adding to playset...
 You need to import Chinese font included in the mod by yourself. But it is very easy, just do like this:  
 * Enter your savegame.
 * Click the Write Everywhere buttom on the left-top (A circled "W").
