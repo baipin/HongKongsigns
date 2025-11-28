@@ -1,4 +1,4 @@
-**v1.0.0.0**
+**v1.0.0.0**  
 After 7 versions of test, it is the first formal version!
 ### Added
 - Blue Exit Distance Countdown.
