@@ -1,8 +1,9 @@
-**v0.0.1.6**
+**v0.0.1.7**
 ### Added
-- Overhead direction signs:Green+Blue 3 Lines.
-- More warning signs.
-- Vertical Road Info Signs which next to the road.
+- More ertical Road Info Signs which next to the road.
+- Destination Direction Signs(White background).
+- Blue Exit Forecast Overhead Signs.
+- Temporary signs, including Road Closed, Police Check etc.
 
-### Fixed
-- The problem that the background of Overhead sign 1L+1L points to empty.
+### Optimized
+- Compress the pictures to tiny the mod and enhance the operation speed.

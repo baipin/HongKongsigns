@@ -40,16 +40,17 @@ You need to import Chinese font included in the mod by yourself. But it is very 
 The Chinese font included in this mod is "匯文港黑". The font is free to use and the combination into the module is allowed by its license.</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-pack-write-everywhere.1881255/" />
-  <ModVersion Value="0.0.1.6" />
+  <ModVersion Value="0.0.1.7" />
   <GameVersion Value="1.*" />
-  <ChangeLog>**v0.0.1.6**
+  <ChangeLog>**v0.0.1.7**
 ### Added
-- Overhead direction signs:Green+Blue 3 Lines.
-- More warning signs.
-- Vertical Road Info Signs which next to the road.
+- More ertical Road Info Signs which next to the road.
+- Destination Direction Signs(White background).
+- Blue Exit Forecast Overhead Signs.
+- Temporary signs, including Road Closed, Police Check etc.
 
-### Fixed
-- The problem that the background of Overhead sign 1L+1L points to empty.</ChangeLog>
+### Optimized
+- Compress the pictures to tiny the mod and enhance the operation speed.</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshots_1.jpg" />
   <Screenshot Value="Screenshots\Screenshots_2.jpg" />
