@@ -2,7 +2,7 @@
   <ModId Value="125896" />
   <DisplayName Value="Hong Kong Signs Pack[Write Everywhere]" />
   <ShortDescription Value="Hong Kong signs pack with Write Everywhere" />
-  <LongDescription># 🎉After 7 versions of testing, the first formal version is now available!
+  <LongDescription>Hong Kong Road Signs Pack | Write Everywhere | UK Signs Pack  
 
 ### Outdtanding Features
 * Combined with a free Chinese font ("滙文港黑"), supporting Traditional Chinese, Simplified Chinese and English. You don't need to import font by yourself.
@@ -41,25 +41,24 @@ You need to import Chinese font included in the mod by yourself. But it is very 
 * (Optional) English font "Transport" is recommended. But due to the copyright issue, please download and import by yourself.  (Copy the .ttf file to C:\Users\[Your username]\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\Klyte45Mods\WriteEverywhere\fonts, if no "fonts"dictionary, please create one.)</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-pack-write-everywhere.1881255/" />
-  <ModVersion Value="1.0.0.0" />
+  <ModVersion Value="1.0.1" />
   <GameVersion Value="1.*" />
-  <ChangeLog>**v1.0.0.0**
-After 7 versions of test, it is the first formal version��
+  <ChangeLog>**v1.0.1**  
 ### Added
-- Blue Exit Distance Countdown.
-- All versions of Exit Distance Countdown for right-hand traffic.
-- Dynamic Message Signs(DMS).
-- Custom speed limit sign.
-- Small Marks: MTR, Pedestrian, Wheelchair, Bike, Arrow_NoAhrad
-- Warning Signs:Steep Hill for bike, Merge from L/R, Merge Into L/R
-- Micro signs: Tunnel Area Start and End, Disabled only, Keep in Lane, Cyclists Keep Right/Left
-- Tempory signs: Temporary Direction Signs</ChangeLog>
+- Road Name Signs.
+- Atlases for 3L overhead empty signs, so that you can coustomize by yourself.
+
+### Optimized
+- Compress NRTB image to tiny the mod and improve the operation speed.</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshots_1.jpg" />
   <Screenshot Value="Screenshots\Screenshots_2.jpg" />
   <Screenshot Value="Screenshots\Screenshots_3.jpg" />
   <Screenshot Value="Screenshots\Screenshots_4.jpg" />
+  <Screenshot Value="Screenshots\Screenshots_5.jpg" />
+  <Screenshot Value="Screenshots\Screenshots_6.jpg" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
   <ExternalLink Type="github" Url="https://github.com/baipin/HongKongsigns" />
+  <ExternalLink Type="kofi" Url="https://ko-fi.com/baipin" />
   <ExternalLink Type="buymeacoffee" Url="https://buymeacoffee.com/baipin" />
 </Publish>
