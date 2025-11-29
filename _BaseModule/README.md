@@ -1,4 +1,4 @@
-﻿# 🎉After 7 versions of testing, the first formal version is now available!
+Hong Kong Road Signs Pack | Write Everywhere | UK Signs Pack  
 
 ### Outdtanding Features
 * Combined with a free Chinese font ("滙文港黑"), supporting Traditional Chinese, Simplified Chinese and English. You don't need to import font by yourself.
