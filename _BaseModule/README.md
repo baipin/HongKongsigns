@@ -1,6 +1,6 @@
 Hong Kong Road Signs Pack | Write Everywhere | UK Signs Pack  
 
-### Outdtanding Features
+### Outstanding Features
 * Combined with a free Chinese font ("滙文港黑"), supporting Traditional Chinese, Simplified Chinese and English. You don't need to import font by yourself.
 * Covering various kinds of traffic signs in Hong Kong, and it can also be used as UK signs pack.
 * **Non-illustration Traffic Bollard (NRTB, 安全島反光板)** is included, and it's very realistic!

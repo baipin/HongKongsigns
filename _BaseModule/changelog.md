@@ -1,7 +1,3 @@
-**v1.0.1**  
-### Added
-- Road Name Signs.
-- Atlases for 3L overhead empty signs, so that you can customize by yourself.
-
-### Optimized
-- Compress NRTB image to tiny the mod and improve the operation speed.
+**v1.0.2**  
+### Hot Fixed
+- Re-packed to be compatible with 1.5.2f1.

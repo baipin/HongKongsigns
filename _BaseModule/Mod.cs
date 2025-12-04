@@ -10,6 +10,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Reflection;
+using Colossal.Core;
 
 namespace _BaseModule
 {
@@ -25,7 +26,7 @@ namespace _BaseModule
             if (GameManager.instance.modManager.TryGetExecutableAsset(this, out var asset))
                 log.Info($"Current mod asset at {asset.path}");
 
-            GameManager.instance.RegisterUpdater(DoWhenLoaded);
+            MainThreadDispatcher.RegisterUpdater(DoWhenLoaded);
         }
 
         private void DoWhenLoaded()
@@ -78,7 +79,7 @@ namespace _BaseModule
 
         private bool DoPatches()
         {
-            var weAsset = AssetDatabase.global.GetAsset(SearchFilter<ExecutableAsset>.ByCondition(asset => asset.isEnabled && asset.isLoaded && asset.name.Equals("BelzontWE")));
+            var weAsset = AssetDatabase.global.GetAsset(SearchFilter<ExecutableAsset>.ByCondition(asset => asset.isLoaded && asset.name.Equals("BelzontWE")));
             if (weAsset?.assembly is null)
             {
                 log.Error($"The module {GetType().Assembly.GetName().Name} requires Write Everywhere mod to work!");

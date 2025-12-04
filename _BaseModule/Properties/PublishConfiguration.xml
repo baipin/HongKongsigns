@@ -4,7 +4,7 @@
   <ShortDescription Value="Hong Kong signs pack with Write Everywhere" />
   <LongDescription>Hong Kong Road Signs Pack | Write Everywhere | UK Signs Pack  
 
-### Outdtanding Features
+### Outstanding Features
 * Combined with a free Chinese font ("滙文港黑"), supporting Traditional Chinese, Simplified Chinese and English. You don't need to import font by yourself.
 * Covering various kinds of traffic signs in Hong Kong, and it can also be used as UK signs pack.
 * **Non-illustration Traffic Bollard (NRTB, 安全島反光板)** is included, and it's very realistic!
@@ -41,15 +41,11 @@ You need to import Chinese font included in the mod by yourself. But it is very 
 * (Optional) English font "Transport" is recommended. But due to the copyright issue, please download and import by yourself.  (Copy the .ttf file to C:\Users\[Your username]\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\Klyte45Mods\WriteEverywhere\fonts, if no "fonts"dictionary, please create one.)</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-pack-write-everywhere.1881255/" />
-  <ModVersion Value="1.0.1" />
+  <ModVersion Value="1.0.2" />
   <GameVersion Value="1.*" />
-  <ChangeLog>**v1.0.1**  
-### Added
-- Road Name Signs.
-- Atlases for 3L overhead empty signs, so that you can coustomize by yourself.
-
-### Optimized
-- Compress NRTB image to tiny the mod and improve the operation speed.</ChangeLog>
+  <ChangeLog>**v1.0.2**  
+### Hot Fixed
+- Re-packed to be compatible with 1.5.2f1.</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshots_1.jpg" />
   <Screenshot Value="Screenshots\Screenshots_2.jpg" />
