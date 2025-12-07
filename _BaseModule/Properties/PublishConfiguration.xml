@@ -41,15 +41,14 @@ You need to import Chinese font included in the mod by yourself. But it is very 
 * (Optional) English font "Transport" is recommended. But due to the copyright issue, please download and import by yourself.  (Copy the .ttf file to C:\Users\[Your username]\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\Klyte45Mods\WriteEverywhere\fonts, if no "fonts"dictionary, please create one.)</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-pack-write-everywhere.1881255/" />
-  <ModVersion Value="1.0.6" />
+  <ModVersion Value="1.0.7" />
   <GameVersion Value="1.5.*" />
-  <ChangeLog>**v1.0.6**  
+  <ChangeLog>**v1.0.7**  
 ### Added
-- Atlases: More Merge signs.
-- Atlases:Give to bus for RHT.
+- Atlases: Get in Lane.
 
-### Optimized
-- Re-sized some pictures.</ChangeLog>
+### Fixed
+- Re-struct the atlases folder to fix the porblem that some pictures disappear due to the new WE's limitation for the maximum pixels of a single folder.</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshots_1.jpg" />
   <Screenshot Value="Screenshots\Screenshots_2.jpg" />

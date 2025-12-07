@@ -1,7 +1,6 @@
-**v1.0.6**  
+**v1.0.7**  
 ### Added
-- Atlases: More Merge signs.
-- Atlases:Give way to bus for RHT.
+- Atlases: Get in Lane.
 
-### Optimized
-- Re-sized some pictures.
+### Fixed
+- Re-struct the atlases folder to fix the porblem that some pictures disappear due to the new WE's limitation for the maximum pixels of a single folder.
