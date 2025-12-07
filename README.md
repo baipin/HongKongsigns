@@ -88,4 +88,7 @@ See [changelog](https://github.com/baipin/HongKongsigns/blob/master/_BaseModule/
 ## Thanks
   * The mod is based on the template provided in [Write Everywhere](https://github.com/klyte45/CS2-WriteEverywhere) mod.
   * Thanks to the example of [German Signs](https://github.com/UnMaestro/Maestros-CS2-GermanSigns). It inspired me a lot.
-  * Thanks to ND81 and his mod [Hong Kong Decals Pack](https://mods.paradoxplaza.com/mods/113771/Windows). Some microsigns are from his mod.
+  * Thanks to ND81 and his mod [Hong Kong Decals Pack](https://mods.paradoxplaza.com/mods/113771/Windows). Some microsigns are from his mod.  
+
+## See also:
+[Directional Traffic Lights Write Everywhere](https://mods.paradoxplaza.com/mods/127268/Windows/)
