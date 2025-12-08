@@ -8,6 +8,7 @@
 * Combined with a free Chinese font ("滙文港黑"), supporting Traditional Chinese, Simplified Chinese and English. You don't need to import font by yourself.
 * Covering various kinds of traffic signs in Hong Kong, and it can also be used as UK signs pack.
 * **Non-illustration Traffic Bollard (NRTB, 安全島反光板)** is included, and it's very realistic!
+* **Digital Traffic Control signal (Lane Signal, 行車線信號)** combined with sign light is included.
 * **Very convenient to use.** The template is already there, and you just need to change the texts.
 * **Special signs for Right-hand traffic.** I specially made new signs for RHT! So if your city is in RHT, you can also use the signs realistically!
 
@@ -44,15 +45,15 @@ You need to import Chinese font included in the mod by yourself. But it is very 
 [Directional Traffic Lights Write Everywhere](https://mods.paradoxplaza.com/mods/127268/Windows/)</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-pack-write-everywhere.1881255/" />
-  <ModVersion Value="1.0.8" />
+  <ModVersion Value="1.0.9" />
   <GameVersion Value="1.5.*" />
-  <ChangeLog>**v1.0.8**  
+  <ChangeLog>**v1.0.9**  
 ### Added
-- Small Marks: Turn Left/Right
-- Layouts: Merge Signs, White Square Direction Signs, Guildford Overhead Signs.
+- Lane Signals.(See Screenshots.)
 
-### Fixed
-- The problem that "Give way to bus" image pointing to empty.</ChangeLog>
+### Optimized
+- Compress all Nosigns.
+- Change the white rounded corners of some images to transparent.</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshots_1.jpg" />
   <Screenshot Value="Screenshots\Screenshots_2.jpg" />
@@ -60,6 +61,7 @@ You need to import Chinese font included in the mod by yourself. But it is very 
   <Screenshot Value="Screenshots\Screenshots_4.jpg" />
   <Screenshot Value="Screenshots\Screenshots_5.jpg" />
   <Screenshot Value="Screenshots\Screenshots_6.jpg" />
+  <Screenshot Value="Screenshots\Screenshots_7.jpg" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
   <ExternalLink Type="github" Url="https://github.com/baipin/HongKongsigns" />
   <ExternalLink Type="kofi" Url="https://ko-fi.com/baipin" />

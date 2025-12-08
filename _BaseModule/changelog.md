@@ -1,8 +1,7 @@
-**v1.0.8**  
+**v1.0.9**  
 ### Added
-- Small Marks: Turn Left/Right
-- Layouts: Merge Signs, White Square Direction Signs, Guildford Overhead Signs.
-- Atlases: Small Highway Direction signs.
+- Lane Signals.(See Screenshots.)
 
-### Fixed
-- The problem that "Give way to bus" image pointing to empty.
+### Optimized
+- Compress all Nosigns.
+- Change the white rounded corners of some images to transparent.

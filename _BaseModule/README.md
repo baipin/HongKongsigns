@@ -4,6 +4,7 @@ Hong Kong Road Signs Pack | Write Everywhere | UK Signs Pack
 * Combined with a free Chinese font ("滙文港黑"), supporting Traditional Chinese, Simplified Chinese and English. You don't need to import font by yourself.
 * Covering various kinds of traffic signs in Hong Kong, and it can also be used as UK signs pack.
 * **Non-illustration Traffic Bollard (NRTB, 安全島反光板)** is included, and it's very realistic!
+* **Digital Traffic Control signal (Lane Signal, 行車線信號)** combined with sign light is included.
 * **Very convenient to use.** The template is already there, and you just need to change the texts.
 * **Special signs for Right-hand traffic.** I specially made new signs for RHT! So if your city is in RHT, you can also use the signs realistically!
 
