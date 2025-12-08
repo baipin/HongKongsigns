@@ -1,6 +1,7 @@
-**v1.0.7**  
+**v1.0.8**  
 ### Added
-- Atlases: Get in Lane.
+- Small Marks: Turn Left/Right
+- Layouts: Merge Signs, White Square Direction Signs, Guildford Overhead Signs.
 
 ### Fixed
-- Re-struct the atlases folder to fix the porblem that some pictures disappear due to the new WE's limitation for the maximum pixels of a single folder.
+- The problem that "Give way to bus" image pointing to empty.

@@ -11,7 +11,7 @@
     </transform>
     <imageMesh atlas="baipinHongKongsigns:MicroSigns">
       <mesh></mesh>
-      <image>Give Way to Bus</image>
+      <image>Give Way to Bus_L</image>
     </imageMesh>
     <defaultStyle>
       <color>FFFFFFFF</color>
