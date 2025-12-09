@@ -14,7 +14,7 @@ You need to import Chinese font included in the mod by yourself. But it is very 
 * Click the Write Everywhere buttom on the left-top (A circled "W").
 * Choose "CITY FONTS" tab.
 * Click "+", choose the puzzle-piece icon (Templates from mods). And search for the "baipinHongKongsigns" Mod.  
-* Select "Huiwenganghei.ttf", click "OK".
+* Select "Huiwenganghei.ttf"(Chinese font) and "Speed LED.ttf"(for Speed limit LED), click "OK".
 * You are done!
 
 ## Recommended structures
