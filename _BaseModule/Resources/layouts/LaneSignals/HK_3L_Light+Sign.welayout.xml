@@ -1,8 +1,8 @@
 <WELayout>
   <self itemName="L">
     <transform alignment="Left" arrayAxisOrder="XYZ">
-      <offsetPosition x="-7.50999975" y="0.3300003" z="0.5000011" />
-      <offsetRotation x="-0" y="180" z="0" />
+      <offsetPosition x="-1.00000048" y="5.00000048" z="-2.59999919" />
+      <offsetRotation x="-0" y="270" z="0" />
       <scale x="1" y="1" z="1" />
       <mustDraw>1</mustDraw>
       <instanceCount>-1</instanceCount>
@@ -29,7 +29,7 @@
   <children>
     <self itemName="M1">
       <transform alignment="Left" arrayAxisOrder="XYZ">
-        <offsetPosition x="-1.67000008" y="0.0300000776" z="0" />
+        <offsetPosition x="-1.72" y="0.0300000776" z="0.01" />
         <offsetRotation x="-0" y="0" z="0" />
         <scale x="1" y="1" z="1" />
         <mustDraw>1</mustDraw>
@@ -113,7 +113,7 @@
   <children>
     <self itemName="Link 2">
       <transform alignment="Left" isAbsoluteScale="true" arrayAxisOrder="XYZ">
-        <offsetPosition x="-3.33" y="7.82310963E-08" z="-0.001" />
+        <offsetPosition x="-3.33" y="7.82310963E-08" z="-0.042" />
         <offsetRotation x="-0" y="0" z="0" />
         <scale x="2.97" y="1.07" z="1" />
         <mustDraw>1</mustDraw>
@@ -541,7 +541,7 @@
           <arraySpacing x="0" y="0" z="0" />
         </transform>
         <textMesh fontName="Transport_Medium">
-          <text>Quan Du (Outbound)</text>
+          <text>San Min (C), Wan Lin, Xin Yi</text>
           <MaxWidthMeters>0</MaxWidthMeters>
         </textMesh>
         <defaultStyle>
@@ -596,7 +596,7 @@
           <arraySpacing x="0" y="0" z="0" />
         </transform>
         <textMesh fontName="Huiwenganghei">
-          <text>泉都 （出境）</text>
+          <text>三民區, 萬林區 及 信義區</text>
           <MaxWidthMeters>0</MaxWidthMeters>
         </textMesh>
         <defaultStyle>
