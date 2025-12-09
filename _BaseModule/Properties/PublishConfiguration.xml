@@ -42,7 +42,8 @@ You need to import Chinese font included in the mod by yourself. But it is very 
 * (Optional) English font "Transport" is recommended. But due to the copyright issue, please download and import by yourself.  (Copy the .ttf file to C:\Users\[Your username]\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\Klyte45Mods\WriteEverywhere\fonts, if no "fonts"dictionary, please create one.)
 
 ## See also:
-[Directional Traffic Lights Write Everywhere](https://mods.paradoxplaza.com/mods/127268/Windows/)</LongDescription>
+[Directional Traffic Lights Write Everywhere](https://mods.paradoxplaza.com/mods/127268/Windows/)
+[Highway Sign Frame Pack](https://mods.paradoxplaza.com/mods/127597/Any)</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-pack-write-everywhere.1881255/" />
   <ModVersion Value="1.0.10" />
@@ -50,6 +51,7 @@ You need to import Chinese font included in the mod by yourself. But it is very 
   <ChangeLog>**v1.0.10**  
 ### Added
 - Atlases: Home Zone, Brown Direction Signs
+- Lane Signal: for 2 Lanes
 
 ### Optimized
 - Compress some pictures to tiny the mod.

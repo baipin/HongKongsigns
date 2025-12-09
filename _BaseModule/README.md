@@ -39,3 +39,4 @@ You need to import Chinese font included in the mod by yourself. But it is very 
 
 ## See also:
 [Directional Traffic Lights Write Everywhere](https://mods.paradoxplaza.com/mods/127268/Windows/)
+[Highway Sign Frame Pack](https://mods.paradoxplaza.com/mods/127597/Any)

@@ -1,8 +1,8 @@
 <WELayout>
   <self itemName="L">
     <transform alignment="Left" arrayAxisOrder="XYZ">
-      <offsetPosition x="-7.50999975" y="0.3300003" z="0.5000011" />
-      <offsetRotation x="-0" y="180" z="0" />
+      <offsetPosition x="-1.01503086" y="4.85000038" z="-2.60091472" />
+      <offsetRotation x="-0" y="270" z="0" />
       <scale x="1" y="1" z="1" />
       <mustDraw>1</mustDraw>
       <instanceCount>-1</instanceCount>
@@ -29,7 +29,7 @@
   <children>
     <self itemName="M1">
       <transform alignment="Left" arrayAxisOrder="XYZ">
-        <offsetPosition x="-1.67000008" y="0.0300000776" z="0" />
+        <offsetPosition x="-1.62999988" y="0.010000078" z="0" />
         <offsetRotation x="-0" y="0" z="0" />
         <scale x="1" y="1" z="1" />
         <mustDraw>1</mustDraw>
@@ -99,8 +99,8 @@
             <emissiveColor>28FA46FF</emissiveColor>
             <metallic>0</metallic>
             <smoothness>0.0362056568</smoothness>
-            <emissiveIntensity>195.788635</emissiveIntensity>
-            <emissiveExposureWeight>0.325851142</emissiveExposureWeight>
+            <emissiveIntensity>195.8327</emissiveIntensity>
+            <emissiveExposureWeight>0.151620865</emissiveExposureWeight>
             <coatStrength>0</coatStrength>
             <colorMask1>FFFFFF</colorMask1>
             <colorMask2>FFFFFF</colorMask2>
@@ -111,11 +111,11 @@
     </children>
   </children>
   <children>
-    <self itemName="Link 2">
+    <self itemName="Link 1">
       <transform alignment="Left" isAbsoluteScale="true" arrayAxisOrder="XYZ">
-        <offsetPosition x="-3.33" y="7.82310963E-08" z="-0.001" />
+        <offsetPosition x="-0.5100004" y="7.82310963E-08" z="-0.001" />
         <offsetRotation x="-0" y="0" z="0" />
-        <scale x="2.97" y="1.07" z="1" />
+        <scale x="1.27" y="1.08" z="1" />
         <mustDraw>1</mustDraw>
         <instanceCount>-1</instanceCount>
         <arrayInstances x="1" y="1" z="1" />
@@ -140,9 +140,145 @@
     </self>
   </children>
   <children>
+    <self itemName="R">
+      <transform alignment="Left" arrayAxisOrder="XYZ">
+        <offsetPosition x="-5.76" y="-0.01999971" z="-0.03" />
+        <offsetRotation x="-0" y="0" z="0" />
+        <scale x="1" y="1" z="1" />
+        <mustDraw>1</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arrayInstances x="1" y="1" z="1" />
+        <arraySpacing x="0" y="0" z="0" />
+      </transform>
+      <imageMesh atlas="baipinHongKongsigns:LaneSignals">
+        <mesh></mesh>
+        <image>R</image>
+      </imageMesh>
+      <defaultStyle>
+        <color>E3E3E3FF</color>
+        <emissiveColor>FFFFFFFF</emissiveColor>
+        <metallic>0</metallic>
+        <smoothness>0</smoothness>
+        <emissiveIntensity>0</emissiveIntensity>
+        <emissiveExposureWeight>0</emissiveExposureWeight>
+        <coatStrength>0</coatStrength>
+        <colorMask1>FFFFFF</colorMask1>
+        <colorMask2>FFFFFF</colorMask2>
+        <colorMask3>FFFFFF</colorMask3>
+      </defaultStyle>
+    </self>
+  </children>
+  <children>
+    <self itemName="Link 2">
+      <transform alignment="Left" isAbsoluteScale="true" arrayAxisOrder="XYZ">
+        <offsetPosition x="-3.069999" y="-0.0199999213" z="-0.001" />
+        <offsetRotation x="-0" y="0" z="0" />
+        <scale x="1.87" y="1.07" z="1" />
+        <mustDraw>1</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arrayInstances x="1" y="1" z="1" />
+        <arraySpacing x="0" y="0" z="0" />
+      </transform>
+      <imageMesh atlas="baipinHongKongsigns:LaneSignals">
+        <mesh></mesh>
+        <image>Link</image>
+      </imageMesh>
+      <defaultStyle>
+        <color>E3E3E3FF</color>
+        <emissiveColor>FFFFFFFF</emissiveColor>
+        <metallic>0</metallic>
+        <smoothness>0</smoothness>
+        <emissiveIntensity>0</emissiveIntensity>
+        <emissiveExposureWeight>0</emissiveExposureWeight>
+        <coatStrength>0</coatStrength>
+        <colorMask1>FFFFFF</colorMask1>
+        <colorMask2>FFFFFF</colorMask2>
+        <colorMask3>FFFFFF</colorMask3>
+      </defaultStyle>
+    </self>
+  </children>
+  <children>
+    <self itemName="Light">
+      <transform alignment="Left" arrayAxisOrder="XYZ">
+        <offsetPosition x="-2.81" y="0.28" z="-0.269999981" />
+        <offsetRotation x="-0" y="0" z="0" />
+        <scale x="6" y="0.1" z="0.1" />
+        <mustDraw>1</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arrayInstances x="1" y="1" z="1" />
+        <arraySpacing x="0" y="0" z="0" />
+      </transform>
+      <whiteCubeMesh />
+      <defaultStyle>
+        <color>FFFFFFFF</color>
+        <emissiveColor>FFFFFFFF</emissiveColor>
+        <metallic>0</metallic>
+        <smoothness>0</smoothness>
+        <emissiveIntensity>7.82697773</emissiveIntensity>
+        <emissiveExposureWeight>0</emissiveExposureWeight>
+        <coatStrength>0</coatStrength>
+        <colorMask1>FFFFFF</colorMask1>
+        <colorMask2>FFFFFF</colorMask2>
+        <colorMask3>FFFFFF</colorMask3>
+      </defaultStyle>
+    </self>
+    <children>
+      <self itemName="Cover Front">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-0.02" y="-0.03" z="0.049999997" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="6" y="0.1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <whiteMesh />
+        <defaultStyle>
+          <color>B5B5B5FF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Cover Back">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="0.00999999" y="-0.02" z="-0.0600000322" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="6" y="0.1" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <whiteMesh />
+        <defaultStyle>
+          <color>828282FF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+  </children>
+  <children>
     <self itemName="M2">
       <transform alignment="Left" arrayAxisOrder="XYZ">
-        <offsetPosition x="-5.2" y="0.0200000778" z="0" />
+        <offsetPosition x="-4.2699995" y="0.010000078" z="0" />
         <offsetRotation x="-0" y="0" z="0" />
         <scale x="1" y="1" z="1" />
         <mustDraw>1</mustDraw>
@@ -226,178 +362,7 @@
   <children>
     <self itemName="Link 3">
       <transform alignment="Left" isAbsoluteScale="true" arrayAxisOrder="XYZ">
-        <offsetPosition x="-7.05999947" y="7.82310963E-08" z="-0.001" />
-        <offsetRotation x="-0" y="0" z="0" />
-        <scale x="2.97" y="1.07" z="1" />
-        <mustDraw>1</mustDraw>
-        <instanceCount>-1</instanceCount>
-        <arrayInstances x="1" y="1" z="1" />
-        <arraySpacing x="0" y="0" z="0" />
-      </transform>
-      <imageMesh atlas="baipinHongKongsigns:LaneSignals">
-        <mesh></mesh>
-        <image>Link</image>
-      </imageMesh>
-      <defaultStyle>
-        <color>E3E3E3FF</color>
-        <emissiveColor>FFFFFFFF</emissiveColor>
-        <metallic>0</metallic>
-        <smoothness>0</smoothness>
-        <emissiveIntensity>0</emissiveIntensity>
-        <emissiveExposureWeight>0</emissiveExposureWeight>
-        <coatStrength>0</coatStrength>
-        <colorMask1>FFFFFF</colorMask1>
-        <colorMask2>FFFFFF</colorMask2>
-        <colorMask3>FFFFFF</colorMask3>
-      </defaultStyle>
-    </self>
-  </children>
-  <children>
-    <self itemName="M3">
-      <transform alignment="Left" arrayAxisOrder="XYZ">
-        <offsetPosition x="-8.889999" y="0.0300000776" z="0" />
-        <offsetRotation x="-0" y="0" z="0" />
-        <scale x="1" y="1" z="1" />
-        <mustDraw>1</mustDraw>
-        <instanceCount>-1</instanceCount>
-        <arrayInstances x="1" y="1" z="1" />
-        <arraySpacing x="0" y="0" z="0" />
-      </transform>
-      <imageMesh atlas="baipinHongKongsigns:LaneSignals">
-        <mesh></mesh>
-        <image>M</image>
-      </imageMesh>
-      <defaultStyle>
-        <color>E3E3E3FF</color>
-        <emissiveColor>FFFFFFFF</emissiveColor>
-        <metallic>0</metallic>
-        <smoothness>0</smoothness>
-        <emissiveIntensity>0</emissiveIntensity>
-        <emissiveExposureWeight>0</emissiveExposureWeight>
-        <coatStrength>0</coatStrength>
-        <colorMask1>FFFFFF</colorMask1>
-        <colorMask2>FFFFFF</colorMask2>
-        <colorMask3>FFFFFF</colorMask3>
-      </defaultStyle>
-    </self>
-    <children>
-      <self itemName="LED">
-        <transform alignment="Left" arrayAxisOrder="XYZ">
-          <offsetPosition x="0.02" y="0" z="-0.11" />
-          <offsetRotation x="-0" y="0" z="0" />
-          <scale x="1" y="0.5" z="0.2" />
-          <mustDraw>1</mustDraw>
-          <instanceCount>-1</instanceCount>
-          <arrayInstances x="1" y="1" z="1" />
-          <arraySpacing x="0" y="0" z="0" />
-        </transform>
-        <whiteCubeMesh />
-        <defaultStyle>
-          <color>000000FF</color>
-          <emissiveColor>FFFFFFFF</emissiveColor>
-          <metallic>0</metallic>
-          <smoothness>0</smoothness>
-          <emissiveIntensity>0</emissiveIntensity>
-          <emissiveExposureWeight>0</emissiveExposureWeight>
-          <coatStrength>0</coatStrength>
-          <colorMask1>FFFFFF</colorMask1>
-          <colorMask2>FFFFFF</colorMask2>
-          <colorMask3>FFFFFF</colorMask3>
-        </defaultStyle>
-      </self>
-      <children>
-        <self itemName="Item show">
-          <transform alignment="Left" arrayAxisOrder="XYZ">
-            <offsetPosition x="-0.01" y="0" z="0.099999994" />
-            <offsetRotation x="-0" y="0" z="0" />
-            <scale x="0.4" y="0.4" z="1" />
-            <mustDraw>1</mustDraw>
-            <instanceCount>-1</instanceCount>
-            <arrayInstances x="1" y="1" z="1" />
-            <arraySpacing x="0" y="0" z="0" />
-          </transform>
-          <imageMesh atlas="baipinHongKongsigns:LaneSignals">
-            <mesh></mesh>
-            <image>Go</image>
-          </imageMesh>
-          <defaultStyle>
-            <color>1FFF39FF</color>
-            <emissiveColor>28FA46FF</emissiveColor>
-            <metallic>0</metallic>
-            <smoothness>0.036</smoothness>
-            <emissiveIntensity>195.788635</emissiveIntensity>
-            <emissiveExposureWeight>0.325851142</emissiveExposureWeight>
-            <coatStrength>0</coatStrength>
-            <colorMask1>FFFFFF</colorMask1>
-            <colorMask2>FFFFFF</colorMask2>
-            <colorMask3>FFFFFF</colorMask3>
-          </defaultStyle>
-        </self>
-      </children>
-    </children>
-  </children>
-  <children>
-    <self itemName="Link 1">
-      <transform alignment="Left" isAbsoluteScale="true" arrayAxisOrder="XYZ">
-        <offsetPosition x="-0.5100004" y="7.82310963E-08" z="-0.002" />
-        <offsetRotation x="-0" y="0" z="0" />
-        <scale x="1.27" y="1.08" z="1" />
-        <mustDraw>1</mustDraw>
-        <instanceCount>-1</instanceCount>
-        <arrayInstances x="1" y="1" z="1" />
-        <arraySpacing x="0" y="0" z="0" />
-      </transform>
-      <imageMesh atlas="baipinHongKongsigns:LaneSignals">
-        <mesh></mesh>
-        <image>Link</image>
-      </imageMesh>
-      <defaultStyle>
-        <color>E3E3E3FF</color>
-        <emissiveColor>FFFFFFFF</emissiveColor>
-        <metallic>0</metallic>
-        <smoothness>0</smoothness>
-        <emissiveIntensity>0</emissiveIntensity>
-        <emissiveExposureWeight>0</emissiveExposureWeight>
-        <coatStrength>0</coatStrength>
-        <colorMask1>FFFFFF</colorMask1>
-        <colorMask2>FFFFFF</colorMask2>
-        <colorMask3>FFFFFF</colorMask3>
-      </defaultStyle>
-    </self>
-  </children>
-  <children>
-    <self itemName="R">
-      <transform alignment="Left" arrayAxisOrder="XYZ">
-        <offsetPosition x="-10.42" y="0.0100002885" z="-0.03" />
-        <offsetRotation x="-0" y="0" z="0" />
-        <scale x="1" y="1" z="1" />
-        <mustDraw>1</mustDraw>
-        <instanceCount>-1</instanceCount>
-        <arrayInstances x="1" y="1" z="1" />
-        <arraySpacing x="0" y="0" z="0" />
-      </transform>
-      <imageMesh atlas="baipinHongKongsigns:LaneSignals">
-        <mesh></mesh>
-        <image>R</image>
-      </imageMesh>
-      <defaultStyle>
-        <color>E3E3E3FF</color>
-        <emissiveColor>FFFFFFFF</emissiveColor>
-        <metallic>0</metallic>
-        <smoothness>0</smoothness>
-        <emissiveIntensity>0</emissiveIntensity>
-        <emissiveExposureWeight>0</emissiveExposureWeight>
-        <coatStrength>0</coatStrength>
-        <colorMask1>FFFFFF</colorMask1>
-        <colorMask2>FFFFFF</colorMask2>
-        <colorMask3>FFFFFF</colorMask3>
-      </defaultStyle>
-    </self>
-  </children>
-  <children>
-    <self itemName="Link 4">
-      <transform alignment="Left" isAbsoluteScale="true" arrayAxisOrder="XYZ">
-        <offsetPosition x="-9.9" y="0.010000078" z="-0.001" />
+        <offsetPosition x="-5.28999853" y="-0.0199999213" z="-0.001" />
         <offsetRotation x="-0" y="0" z="0" />
         <scale x="1.07" y="1.07" z="1" />
         <mustDraw>1</mustDraw>
@@ -424,89 +389,11 @@
     </self>
   </children>
   <children>
-    <self itemName="Light">
-      <transform alignment="Left" arrayAxisOrder="XYZ">
-        <offsetPosition x="-5.35" y="0.26" z="-0.269999981" />
+    <self itemName="Exit Direction">
+      <transform alignment="Left" isAbsoluteScale="true" arrayAxisOrder="XYZ">
+        <offsetPosition x="-2.93000126" y="1.5399996" z="-0.45" />
         <offsetRotation x="-0" y="0" z="0" />
-        <scale x="8" y="0.1" z="0.1" />
-        <mustDraw>1</mustDraw>
-        <instanceCount>-1</instanceCount>
-        <arrayInstances x="1" y="1" z="1" />
-        <arraySpacing x="0" y="0" z="0" />
-      </transform>
-      <whiteCubeMesh />
-      <defaultStyle>
-        <color>FFFFFFFF</color>
-        <emissiveColor>FFFFFFFF</emissiveColor>
-        <metallic>0</metallic>
-        <smoothness>0</smoothness>
-        <emissiveIntensity>7.82697773</emissiveIntensity>
-        <emissiveExposureWeight>0</emissiveExposureWeight>
-        <coatStrength>0</coatStrength>
-        <colorMask1>FFFFFF</colorMask1>
-        <colorMask2>FFFFFF</colorMask2>
-        <colorMask3>FFFFFF</colorMask3>
-      </defaultStyle>
-    </self>
-    <children>
-      <self itemName="Cover Front">
-        <transform alignment="Left" arrayAxisOrder="XYZ">
-          <offsetPosition x="-0.02" y="-0.03" z="0.049999997" />
-          <offsetRotation x="-0" y="0" z="0" />
-          <scale x="8" y="0.1" z="1" />
-          <mustDraw>1</mustDraw>
-          <instanceCount>-1</instanceCount>
-          <arrayInstances x="1" y="1" z="1" />
-          <arraySpacing x="0" y="0" z="0" />
-        </transform>
-        <whiteMesh />
-        <defaultStyle>
-          <color>B5B5B5FF</color>
-          <emissiveColor>FFFFFFFF</emissiveColor>
-          <metallic>0</metallic>
-          <smoothness>0</smoothness>
-          <emissiveIntensity>0</emissiveIntensity>
-          <emissiveExposureWeight>0</emissiveExposureWeight>
-          <coatStrength>0</coatStrength>
-          <colorMask1>FFFFFF</colorMask1>
-          <colorMask2>FFFFFF</colorMask2>
-          <colorMask3>FFFFFF</colorMask3>
-        </defaultStyle>
-      </self>
-    </children>
-    <children>
-      <self itemName="Cover Back">
-        <transform alignment="Left" arrayAxisOrder="XYZ">
-          <offsetPosition x="0.00999999" y="-0.02" z="-0.0600000322" />
-          <offsetRotation x="-0" y="0" z="0" />
-          <scale x="8" y="0.1" z="1" />
-          <mustDraw>1</mustDraw>
-          <instanceCount>-1</instanceCount>
-          <arrayInstances x="1" y="1" z="1" />
-          <arraySpacing x="0" y="0" z="0" />
-        </transform>
-        <whiteMesh />
-        <defaultStyle>
-          <color>828282FF</color>
-          <emissiveColor>FFFFFFFF</emissiveColor>
-          <metallic>0</metallic>
-          <smoothness>0</smoothness>
-          <emissiveIntensity>0</emissiveIntensity>
-          <emissiveExposureWeight>0</emissiveExposureWeight>
-          <coatStrength>0</coatStrength>
-          <colorMask1>FFFFFF</colorMask1>
-          <colorMask2>FFFFFF</colorMask2>
-          <colorMask3>FFFFFF</colorMask3>
-        </defaultStyle>
-      </self>
-    </children>
-  </children>
-  <children>
-    <self itemName="3L Geen Sign">
-      <transform alignment="Left" arrayAxisOrder="XYZ">
-        <offsetPosition x="-5.1443224" y="1.69" z="-0.439340383" />
-        <offsetRotation x="-0" y="0" z="0" />
-        <scale x="2.5" y="2.5" z="1" />
+        <scale x="6.05" y="2.25" z="1" />
         <mustDraw>1</mustDraw>
         <instanceCount>-1</instanceCount>
         <arrayInstances x="1" y="1" z="1" />
@@ -514,7 +401,7 @@
       </transform>
       <imageMesh atlas="baipinHongKongsigns:Direction Signs">
         <mesh></mesh>
-        <image>OverDirection_with_arrow_3L_G</image>
+        <image>Green Empty Wide</image>
       </imageMesh>
       <defaultStyle>
         <color>FFFFFFFF</color>
@@ -530,20 +417,78 @@
       </defaultStyle>
     </self>
     <children>
-      <self itemName="Destination Eng">
+      <self itemName="Destination En">
         <transform alignment="Left" arrayAxisOrder="XYZ">
-          <offsetPosition x="0.0200001" y="0.75" z="0" />
+          <offsetPosition x="0.0600000024" y="0.7" z="0" />
           <offsetRotation x="-0" y="0" z="0" />
-          <scale x="0.38" y="0.38" z="1" />
+          <scale x="0.3" y="0.3" z="1" />
           <mustDraw>1</mustDraw>
           <instanceCount>-1</instanceCount>
           <arrayInstances x="1" y="1" z="1" />
           <arraySpacing x="0" y="0" z="0" />
         </transform>
         <textMesh fontName="Transport_Medium">
-          <text>Quan Du (Outbound)</text>
+          <text>San Min (S)</text>
           <MaxWidthMeters>0</MaxWidthMeters>
         </textMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Destination 2">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="0.0200000312" y="0.13" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="0.3" y="0.3" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <textMesh fontName="Huiwenganghei">
+          <text>三民區(南)</text>
+          <MaxWidthMeters>0</MaxWidthMeters>
+        </textMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Arrow">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-1.52296674" y="-0.772821665" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="0.5" y="0.5" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="baipinHongKongsigns:SmallMarks">
+          <mesh></mesh>
+          <image>Arrow_Down</image>
+        </imageMesh>
         <defaultStyle>
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
@@ -563,7 +508,7 @@
         <transform alignment="Left" arrayAxisOrder="XYZ">
           <offsetPosition x="0" y="0" z="-0.01" />
           <offsetRotation x="-0" y="0" z="0" />
-          <scale x="10.9" y="2.5" z="1" />
+          <scale x="6" y="2.25" z="1" />
           <mustDraw>1</mustDraw>
           <instanceCount>-1</instanceCount>
           <arrayInstances x="1" y="1" z="1" />
@@ -585,20 +530,78 @@
       </self>
     </children>
     <children>
-      <self itemName="Destination Chn">
+      <self itemName="Exit Number">
         <transform alignment="Left" arrayAxisOrder="XYZ">
-          <offsetPosition x="0.01999998" y="0.0599999428" z="0" />
+          <offsetPosition x="-1.62" y="0.0899999738" z="0" />
           <offsetRotation x="-0" y="0" z="0" />
-          <scale x="0.38" y="0.38" z="1" />
+          <scale x="0.4" y="0.4" z="1" />
           <mustDraw>1</mustDraw>
           <instanceCount>-1</instanceCount>
           <arrayInstances x="1" y="1" z="1" />
           <arraySpacing x="0" y="0" z="0" />
         </transform>
-        <textMesh fontName="Huiwenganghei">
-          <text>泉都 （出境）</text>
-          <MaxWidthMeters>0</MaxWidthMeters>
-        </textMesh>
+        <imageMesh atlas="baipinHongKongsigns:SmallMarks">
+          <mesh></mesh>
+          <image>Exit_Number</image>
+        </imageMesh>
+        <defaultStyle>
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+      <children>
+        <self itemName="Number">
+          <transform alignment="Left" arrayAxisOrder="XYZ">
+            <offsetPosition x="-0.099999994" y="-0.03" z="0" />
+            <offsetRotation x="-0" y="0" z="0" />
+            <scale x="0.29" y="0.29" z="1" />
+            <mustDraw>1</mustDraw>
+            <instanceCount>-1</instanceCount>
+            <arrayInstances x="1" y="1" z="1" />
+            <arraySpacing x="0" y="0" z="0" />
+          </transform>
+          <textMesh fontName="Transport_Medium">
+            <text>1</text>
+            <MaxWidthMeters>0</MaxWidthMeters>
+          </textMesh>
+          <defaultStyle>
+            <color>FFFFFFFF</color>
+            <emissiveColor>FFFFFFFF</emissiveColor>
+            <metallic>0</metallic>
+            <smoothness>0</smoothness>
+            <emissiveIntensity>0</emissiveIntensity>
+            <emissiveExposureWeight>0</emissiveExposureWeight>
+            <coatStrength>0</coatStrength>
+            <colorMask1>FFFFFF</colorMask1>
+            <colorMask2>FFFFFF</colorMask2>
+            <colorMask3>FFFFFF</colorMask3>
+          </defaultStyle>
+        </self>
+      </children>
+    </children>
+    <children>
+      <self itemName="Highway">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-2.64999986" y="0.77" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="0.4" y="0.4" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="baipinHongKongsigns:MicroSigns">
+          <mesh></mesh>
+          <image>Highway_Start</image>
+        </imageMesh>
         <defaultStyle>
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
@@ -614,80 +617,22 @@
       </self>
     </children>
     <children>
-      <self itemName="Route Number L">
+      <self itemName="Arrow">
         <transform alignment="Left" arrayAxisOrder="XYZ">
-          <offsetPosition x="2.56" y="-0.780000031" z="0" />
+          <offsetPosition x="1.39811623" y="-0.764186859" z="0" />
           <offsetRotation x="-0" y="0" z="0" />
-          <scale x="0.35" y="0.35" z="1" />
+          <scale x="0.5" y="0.5" z="1" />
           <mustDraw>1</mustDraw>
           <instanceCount>-1</instanceCount>
           <arrayInstances x="1" y="1" z="1" />
           <arraySpacing x="0" y="0" z="0" />
         </transform>
-        <textMesh fontName="Transport_Medium">
-          <text>1</text>
-          <MaxWidthMeters>0</MaxWidthMeters>
-        </textMesh>
+        <imageMesh atlas="baipinHongKongsigns:SmallMarks">
+          <mesh></mesh>
+          <image>Arrow_Down</image>
+        </imageMesh>
         <defaultStyle>
-          <color>000000FF</color>
-          <emissiveColor>FFFFFFFF</emissiveColor>
-          <metallic>0</metallic>
-          <smoothness>0</smoothness>
-          <emissiveIntensity>0</emissiveIntensity>
-          <emissiveExposureWeight>0</emissiveExposureWeight>
-          <coatStrength>0</coatStrength>
-          <colorMask1>FFFFFF</colorMask1>
-          <colorMask2>FFFFFF</colorMask2>
-          <colorMask3>FFFFFF</colorMask3>
-        </defaultStyle>
-      </self>
-    </children>
-    <children>
-      <self itemName="Route Number M">
-        <transform alignment="Left" arrayAxisOrder="XYZ">
-          <offsetPosition x="-1.01" y="-0.780000031" z="0" />
-          <offsetRotation x="-0" y="0" z="0" />
-          <scale x="0.35" y="0.35" z="1" />
-          <mustDraw>1</mustDraw>
-          <instanceCount>-1</instanceCount>
-          <arrayInstances x="1" y="1" z="1" />
-          <arraySpacing x="0" y="0" z="0" />
-        </transform>
-        <textMesh fontName="Transport_Medium">
-          <text>1</text>
-          <MaxWidthMeters>0</MaxWidthMeters>
-        </textMesh>
-        <defaultStyle>
-          <color>000000FF</color>
-          <emissiveColor>FFFFFFFF</emissiveColor>
-          <metallic>0</metallic>
-          <smoothness>0</smoothness>
-          <emissiveIntensity>0</emissiveIntensity>
-          <emissiveExposureWeight>0</emissiveExposureWeight>
-          <coatStrength>0</coatStrength>
-          <colorMask1>FFFFFF</colorMask1>
-          <colorMask2>FFFFFF</colorMask2>
-          <colorMask3>FFFFFF</colorMask3>
-        </defaultStyle>
-      </self>
-    </children>
-    <children>
-      <self itemName="Route Number R">
-        <transform alignment="Left" arrayAxisOrder="XYZ">
-          <offsetPosition x="-4.58" y="-0.79" z="0" />
-          <offsetRotation x="-0" y="0" z="0" />
-          <scale x="0.35" y="0.35" z="1" />
-          <mustDraw>1</mustDraw>
-          <instanceCount>-1</instanceCount>
-          <arrayInstances x="1" y="1" z="1" />
-          <arraySpacing x="0" y="0" z="0" />
-        </transform>
-        <textMesh fontName="Transport_Medium">
-          <text>1</text>
-          <MaxWidthMeters>0</MaxWidthMeters>
-        </textMesh>
-        <defaultStyle>
-          <color>000000FF</color>
+          <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
           <smoothness>0</smoothness>
