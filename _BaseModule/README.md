@@ -20,7 +20,8 @@ You need to import Chinese font included in the mod by yourself. But it is very 
 ## Recommended structures
 For overhead direction signs, you can use one or both of the following assets:
 * [Highway Sign Frame Pack](https://mods.paradoxplaza.com/mods/127597/Any) by me.
-* [Highway Sign Structures](https://mods.paradoxplaza.com/mods/127499/Any) by lolok.  
+* [Highway Sign Structures](https://mods.paradoxplaza.com/mods/127499/Any) by lolok.
+  
 There might be some differences for pre-layouts, but you can simply adjust manually.
 
 ## How to Use
