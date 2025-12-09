@@ -23,12 +23,6 @@ For overhead direction signs, you can use one or both of the following assets:
 * [Highway Sign Structures](https://mods.paradoxplaza.com/mods/127499/Any) by lolok.
 There might be some differences for pre-layouts, but you can simply adjust manually.
 
-## Recommended structures
-For overhead direction signs, you can use one or both of the following assets:
-* [Highway Sign Frame Pack](https://mods.paradoxplaza.com/mods/127597/Any) by me.
-* [Highway Sign Structures](https://mods.paradoxplaza.com/mods/127499/Any) by lolok.
-There might be some differences for pre-layouts, but you can simply adjust manually.
-
 ## How to Use
 1️⃣Install "Write Everywhere" first.(See link below)  
 2️⃣Place a road structure (e.g. "European No Entry sign" for Round Micro Signs) that matches your sign type.  
