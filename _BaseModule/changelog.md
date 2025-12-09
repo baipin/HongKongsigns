@@ -1,7 +1,7 @@
-**v1.0.9**  
+**v1.0.10**  
 ### Added
-- Lane Signals.(See Screenshots.)
+- Atlases: Home Zone, Brown Direction Signs
 
 ### Optimized
-- Compress all Nosigns.
+- Compress some pictures to tiny the mod.
 - Change the white rounded corners of some images to transparent.
