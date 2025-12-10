@@ -1,17 +1,20 @@
 <WELayout>
-  <self itemName="Speed Led">
+  <self itemName="Arrow with Exit Number">
     <transform alignment="Left" arrayAxisOrder="XYZ">
-      <offsetPosition x="-0.3799997" y="6.24999952" z="-1.92000055" />
-      <offsetRotation x="-0" y="270" z="0" />
-      <scale x="1.5" y="1.5" z="0.4" />
+      <offsetPosition x="-3.78" y="-0.819999933" z="0" />
+      <offsetRotation x="-0" y="0" z="0" />
+      <scale x="0.6" y="0.6" z="1" />
       <mustDraw>1</mustDraw>
       <instanceCount>-1</instanceCount>
       <arrayInstances x="1" y="1" z="1" />
       <arraySpacing x="0" y="0" z="0" />
     </transform>
-    <whiteCubeMesh />
+    <imageMesh atlas="baipinHongKongsigns:SmallMarks">
+      <mesh></mesh>
+      <image>Arrow_Down</image>
+    </imageMesh>
     <defaultStyle>
-      <color>A1A1A1FF</color>
+      <color>FFFFFFFF</color>
       <emissiveColor>FFFFFFFF</emissiveColor>
       <metallic>0</metallic>
       <smoothness>0</smoothness>
@@ -24,19 +27,22 @@
     </defaultStyle>
   </self>
   <children>
-    <self itemName="LED">
+    <self itemName="Exit">
       <transform alignment="Left" arrayAxisOrder="XYZ">
-        <offsetPosition x="-0.01" y="0" z="0.199999988" />
+        <offsetPosition x="-1.02" y="-0.01" z="0" />
         <offsetRotation x="-0" y="0" z="0" />
-        <scale x="1.4" y="1.4" z="1" />
+        <scale x="0.5" y="0.5" z="1" />
         <mustDraw>1</mustDraw>
         <instanceCount>-1</instanceCount>
         <arrayInstances x="1" y="1" z="1" />
         <arraySpacing x="0" y="0" z="0" />
       </transform>
-      <whiteMesh />
+      <imageMesh atlas="baipinHongKongsigns:SmallMarks">
+        <mesh></mesh>
+        <image>Exit_Number</image>
+      </imageMesh>
       <defaultStyle>
-        <color>000000FF</color>
+        <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
         <smoothness>0</smoothness>
@@ -49,47 +55,18 @@
       </defaultStyle>
     </self>
     <children>
-      <self itemName="Circle">
+      <self itemName="Number">
         <transform alignment="Left" arrayAxisOrder="XYZ">
-          <offsetPosition x="0" y="0" z="0" />
+          <offsetPosition x="-0.13" y="-0.01" z="0" />
           <offsetRotation x="-0" y="0" z="0" />
-          <scale x="1.4" y="1.4" z="1" />
+          <scale x="0.33" y="0.33" z="1" />
           <mustDraw>1</mustDraw>
           <instanceCount>-1</instanceCount>
           <arrayInstances x="1" y="1" z="1" />
           <arraySpacing x="0" y="0" z="0" />
         </transform>
-        <imageMesh atlas="baipinHongKongsigns:LaneSignals">
-          <mesh></mesh>
-          <image>Red Circle LED</image>
-        </imageMesh>
-        <defaultStyle>
-          <color>FFFFFFFF</color>
-          <emissiveColor>FF0000FF</emissiveColor>
-          <metallic>0</metallic>
-          <smoothness>0</smoothness>
-          <emissiveIntensity>101.888306</emissiveIntensity>
-          <emissiveExposureWeight>0.120685518</emissiveExposureWeight>
-          <coatStrength>0</coatStrength>
-          <colorMask1>FFFFFF</colorMask1>
-          <colorMask2>FFFFFF</colorMask2>
-          <colorMask3>FFFFFF</colorMask3>
-        </defaultStyle>
-      </self>
-    </children>
-    <children>
-      <self itemName="Speed">
-        <transform alignment="Left" arrayAxisOrder="XYZ">
-          <offsetPosition x="0.03" y="-0.03" z="0.002" />
-          <offsetRotation x="-0" y="0" z="0" />
-          <scale x="0.3" y="0.3" z="1" />
-          <mustDraw>1</mustDraw>
-          <instanceCount>-1</instanceCount>
-          <arrayInstances x="1" y="1" z="1" />
-          <arraySpacing x="0" y="0" z="0" />
-        </transform>
-        <textMesh fontName="Speed_LED_nums_only_">
-          <text>100</text>
+        <textMesh fontName="Transport_Medium">
+          <text>1</text>
           <MaxWidthMeters>0</MaxWidthMeters>
         </textMesh>
         <defaultStyle>
@@ -97,8 +74,8 @@
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
           <smoothness>0</smoothness>
-          <emissiveIntensity>4.302147</emissiveIntensity>
-          <emissiveExposureWeight>0.108616956</emissiveExposureWeight>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
           <coatStrength>0</coatStrength>
           <colorMask1>FFFFFF</colorMask1>
           <colorMask2>FFFFFF</colorMask2>

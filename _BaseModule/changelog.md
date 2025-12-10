@@ -1,15 +1,7 @@
-**v1.0.10**  
-### Added
-- Atlases: Home Zone, Brown Direction Signs, Bus Route, Bike Route.
-- Lane Signal: layouts for 2 Lanes and 4 Lanes.
-- Digital speed limit sign.
-- Fonts for digital speed limit sign.
-- Warning Signs: Uneven, Two Way Across, Electric Cable, Height Restricted, T-junction Ahead, Dual Carriageway End, Stop or Giveway Ahead
-- Additional Info: Stop at 100m,Give way at 50m, Accident
-
+**v1.1.1**  
 ### Changed
-- The layouts for lane signal are now suitable for Highway Sign Frame assets.
+- The background images of some layouts are changed from pre-made to empty, and small elements on the background previously now become WE elements so that you can customize more freely.
+- Small changes to images to improve visual performance.
 
-### Optimized
-- Compress some pictures to tiny the mod.
-- Change the white rounded corners of some images to transparent.
+### Added
+- Small elements layouts to realize what I mentioned above.

@@ -53,23 +53,15 @@ There might be some differences for pre-layouts, but you can simply adjust manua
 [Highway Sign Frame Pack](https://mods.paradoxplaza.com/mods/127597/Any)</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-pack-write-everywhere.1881255/" />
-  <ModVersion Value="1.0.10" />
+  <ModVersion Value="1.1.1" />
   <GameVersion Value="1.5.*" />
-  <ChangeLog>**v1.0.10**  
-### Added
-- Atlases: Home Zone, Brown Direction Signs, Bus Route, Bike Route.
-- Lane Signal: layouts for 2 Lanes and 4 Lanes.
-- Digital speed limit sign.
-- Fonts for digital speed limit sign.
-- Warning Signs: Uneven, Two Way Across, Electric Cable, Height Restricted, T-junction Ahead, Dual Carriageway End, Stop or Giveway Ahead
-- Additional Info: Stop at 100m,Give way at 50m, Accident
-
+  <ChangeLog>**v1.1.1**  
 ### Changed
-- The layouts for lane signal are now suitable for Highway Sign Frame assets.
+- The background images of some layouts are changed from pre-made to empty, and small elements on the background previously now become WE elements so that you can customize more freely.
+- Small changes to images to improve visual performance.
 
-### Optimized
-- Compress some pictures to tiny the mod.
-- Change the white rounded corners of some images to transparent.</ChangeLog>
+### Added
+- Small elements layouts to realize what I mentioned above.</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshots_1.jpg" />
   <Screenshot Value="Screenshots\Screenshots_2.jpg" />
