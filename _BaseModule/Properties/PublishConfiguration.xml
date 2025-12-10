@@ -18,8 +18,15 @@ You need to import Chinese font included in the mod by yourself. But it is very 
 * Click the Write Everywhere buttom on the left-top (A circled "W").
 * Choose "CITY FONTS" tab.
 * Click "+", choose the puzzle-piece icon (Templates from mods). And search for the "baipinHongKongsigns" Mod.  
-* Select "Huiwenganghei.ttf", click "OK".
+* Select "Huiwenganghei.ttf"(Chinese font) and "Speed LED(nums only).ttf"(for Speed limit LED), click "OK".
 * You are done!
+
+## Recommended structures
+For overhead direction signs, you can use one or both of the following assets:
+* [Highway Sign Frame Pack](https://mods.paradoxplaza.com/mods/127597/Any) by me.
+* [Highway Sign Structures](https://mods.paradoxplaza.com/mods/127499/Any) by lolok.
+  
+There might be some differences for pre-layouts, but you can simply adjust manually.
 
 ## How to Use
 1️⃣Install "Write Everywhere" first.(See link below)  
@@ -38,7 +45,7 @@ You need to import Chinese font included in the mod by yourself. But it is very 
 3️⃣All templates are stored locally so no re-import required.  
 
 ## Notes
-* The Chinese font included in this mod is "匯文港黑". The font is free to use and the combination into the module is allowed by its license.
+* The Chinese font included in this mod is "匯文港黑", and the font for speed limit sign is Electrolize (Numbers only). The fonts are free to use and the combination into the module is allowed by its license.
 * (Optional) English font "Transport" is recommended. But due to the copyright issue, please download and import by yourself.  (Copy the .ttf file to C:\Users\[Your username]\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\Klyte45Mods\WriteEverywhere\fonts, if no "fonts"dictionary, please create one.)
 
 ## See also:
@@ -50,8 +57,15 @@ You need to import Chinese font included in the mod by yourself. But it is very 
   <GameVersion Value="1.5.*" />
   <ChangeLog>**v1.0.10**  
 ### Added
-- Atlases: Home Zone, Brown Direction Signs
-- Lane Signal: for 2 Lanes
+- Atlases: Home Zone, Brown Direction Signs, Bus Route, Bike Route.
+- Lane Signal: layouts for 2 Lanes and 4 Lanes.
+- Digital speed limit sign.
+- Fonts for digital speed limit sign.
+- Warning Signs: Uneven, Two Way Across, Electric Cable, Height Restricted, T-junction Ahead, Dual Carriageway End, Stop or Giveway Ahead
+- Additional Info: Stop at 100m,Give way at 50m, Accident
+
+### Changed
+- The layouts for lane signal are now suitable for Highway Sign Frame assets.
 
 ### Optimized
 - Compress some pictures to tiny the mod.
@@ -64,6 +78,7 @@ You need to import Chinese font included in the mod by yourself. But it is very 
   <Screenshot Value="Screenshots\Screenshots_5.jpg" />
   <Screenshot Value="Screenshots\Screenshots_6.jpg" />
   <Screenshot Value="Screenshots\Screenshots_7.jpg" />
+  <Screenshot Value="Screenshots\Screenshots_8.jpg" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
   <ExternalLink Type="github" Url="https://github.com/baipin/HongKongsigns" />
   <ExternalLink Type="kofi" Url="https://ko-fi.com/baipin" />

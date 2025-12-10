@@ -14,7 +14,7 @@ You need to import Chinese font included in the mod by yourself. But it is very 
 * Click the Write Everywhere buttom on the left-top (A circled "W").
 * Choose "CITY FONTS" tab.
 * Click "+", choose the puzzle-piece icon (Templates from mods). And search for the "baipinHongKongsigns" Mod.  
-* Select "Huiwenganghei.ttf"(Chinese font) and "Speed LED.ttf"(for Speed limit LED), click "OK".
+* Select "Huiwenganghei.ttf"(Chinese font) and "Speed LED(nums only).ttf"(for Speed limit LED), click "OK".
 * You are done!
 
 ## Recommended structures
@@ -41,7 +41,7 @@ There might be some differences for pre-layouts, but you can simply adjust manua
 3️⃣All templates are stored locally so no re-import required.  
 
 ## Notes
-* The Chinese font included in this mod is "匯文港黑". The font is free to use and the combination into the module is allowed by its license.
+* The Chinese font included in this mod is "匯文港黑", and the font for speed limit sign is Electrolize (Numbers only). The fonts are free to use and the combination into the module is allowed by its license.
 * (Optional) English font "Transport" is recommended. But due to the copyright issue, please download and import by yourself.  (Copy the .ttf file to C:\Users\[Your username]\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\Klyte45Mods\WriteEverywhere\fonts, if no "fonts"dictionary, please create one.)
 
 ## See also:

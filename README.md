@@ -83,7 +83,7 @@ See [changelog](https://github.com/baipin/HongKongsigns/blob/master/_BaseModule/
 | Overhead Direction Sign Blue_Long | High-rise cleaning platform | /Direction Signs (Overhead)/HK_Overdirection_Long.welayout |
 
 ## Notes
-* The Chinese font included in this mod is "匯文港黑". The font is free to use and the combination into the module is allowed by its license.
+* The Chinese font included in this mod is "匯文港黑", and the font for speed limit sign is Electrolize (Numbers only). The fonts are free to use and the combination into the module is allowed by its license.
 * （Optional）English font "Transport" is recommended. But due to the copyright issue, please download and import by yourself.  (Copy the .ttf file to C:\Users\[Your username]\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\Klyte45Mods\WriteEverywhere\fonts, if no "fonts"dictionary, please create one.)
 
 ## Thanks
