@@ -1,7 +1,5 @@
-**v1.1.1**  
-### Changed
-- The background images of some layouts are changed from pre-made to empty, and small elements on the background previously now become WE elements so that you can customize more freely.
-- Small changes to images to improve visual performance.
-
+**v1.1.2**  
 ### Added
-- Small elements layouts to realize what I mentioned above.
+- Temp sign:Road Closed Warning, Red Sharp
+- Micro Sign:Police Accident, Dual Carriageway Ahead, Restriction on Height/Width/Weight/Axle Weight
+- Warning Sign: Slippery Road, Loose chippings.
