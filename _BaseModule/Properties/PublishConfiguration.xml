@@ -53,13 +53,12 @@ There might be some differences for pre-layouts, but you can simply adjust manua
 [Highway Sign Frame Pack](https://mods.paradoxplaza.com/mods/127597/Any)</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-pack-write-everywhere.1881255/" />
-  <ModVersion Value="1.1.2" />
+  <ModVersion Value="1.1.3" />
   <GameVersion Value="1.5.*" />
-  <ChangeLog>**v1.1.2**  
+  <ChangeLog>**v1.1.3**  
 ### Added
-- Temp sign:Road Closed Warning, Red Sharp
-- Micro Sign:Police Accident, Dual Carriageway Ahead, Restriction on Height/Width/Weight/Axle Weight
-- Warning Sign: Slippery Road, Loose chippings.</ChangeLog>
+- Small Marks: Cross Harbour Tunnel
+- Layouts: Additional Info (Allow-Customize edition)</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshots_1.jpg" />
   <Screenshot Value="Screenshots\Screenshots_2.jpg" />

@@ -1,5 +1,4 @@
-**v1.1.2**  
+**v1.1.3**  
 ### Added
-- Temp sign:Road Closed Warning, Red Sharp
-- Micro Sign:Police Accident, Dual Carriageway Ahead, Restriction on Height/Width/Weight/Axle Weight
-- Warning Sign: Slippery Road, Loose chippings.
+- Small Marks: Cross Harbour Tunnel
+- Layouts: Additional Info (Allow-Customize edition)
