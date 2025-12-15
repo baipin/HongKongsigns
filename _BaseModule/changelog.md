@@ -1,6 +1,7 @@
 **v1.1.5**  
 ### Added
 - Warning signs: Queue likely.
+- Layouts: Highway End
 
 
 ### Hot fixed
