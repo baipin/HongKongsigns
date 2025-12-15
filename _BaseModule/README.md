@@ -46,4 +46,7 @@ There might be some differences for pre-layouts, but you can simply adjust manua
 
 ## See also:
 [Directional Traffic Lights Write Everywhere](https://mods.paradoxplaza.com/mods/127268/Windows/)  
-[Highway Sign Frame Pack](https://mods.paradoxplaza.com/mods/127597/Any)
+[Highway Sign Frame Pack](https://mods.paradoxplaza.com/mods/127597/Any)  
+[Hong Kong Signs Overrider](https://mods.paradoxplaza.com/mods/128035/Windows)  
+[UK Signs Pack](https://mods.paradoxplaza.com/mods/127797/Windows)  
+[China Signs Pack](https://mods.paradoxplaza.com/mods/127887/Windows)  
