@@ -1,10 +1,7 @@
-**v1.1.4**  
+**v1.1.5**  
 ### Added
-- Small Marks: Truck.
-- Layouts: Vehicle Prohibited.
-- Warning signs: Horse, Cattle, Fog, Cyclists.
-- Atlases: Except taxi.
+- Warning signs: Queue likely.
 
-### Optimized
-- Change some white rounded corners of the images to transparent.
-- Compress some images to tiny the mod.
+
+### Hot fixed
+- Change the size of some images to fix the problem that exceeding the maximum limitation of pixel in a single folder.
