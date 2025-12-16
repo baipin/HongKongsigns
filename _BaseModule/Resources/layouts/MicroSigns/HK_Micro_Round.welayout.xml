@@ -42,7 +42,7 @@
         <image>Backside Circle</image>
       </imageMesh>
       <defaultStyle>
-        <color>FFFFFFFF</color>
+        <color>757575FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
         <smoothness>0</smoothness>
