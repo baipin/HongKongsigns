@@ -1,9 +1,4 @@
-**v1.1.6**  
-### Added
-- Micro signs: Empty blue
-- Small marks: Tunnel Closed, Circle Normal/Helix L/R U-turn Included
-- Layouts: Turn right/left sign in a circle
-
-### Changed
-- The color of round sign background to grey.
+**v1.1.7**  
+### Hot fixed
+- Resize the pictures to fix the problem that some images disappear due to exceeding the limitation of total pixels in a single folder.
 
