@@ -56,11 +56,12 @@ There might be some differences for pre-layouts, but you can simply adjust manua
 [China Signs Pack](https://mods.paradoxplaza.com/mods/127887/Windows)</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-pack-write-everywhere.1881255/" />
-  <ModVersion Value="1.1.7" />
+  <ModVersion Value="1.1.8" />
   <GameVersion Value="1.5.*" />
-  <ChangeLog>**v1.1.7**  
-### Hot fixed
-- Resize the pictures to fix the problem that some images disappear due to exceeding the limitation of total pixels in a single folder.</ChangeLog>
+  <ChangeLog>**v1.1.8**  
+### Added
+- Traffic light style in Hong Kong.
+- Layouts for empty red.</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshots_1.jpg" />
   <Screenshot Value="Screenshots\Screenshots_2.jpg" />
