@@ -13,7 +13,7 @@
       <mesh></mesh>
       <image>Highway_End</image>
     </imageMesh>
-    <defaultStyle>
+    <defaultStyle  renderBackface="true">
       <color>FFFFFFFF</color>
       <emissiveColor>FFFFFFFF</emissiveColor>
       <metallic>0</metallic>
@@ -38,7 +38,7 @@
         <arraySpacing x="0" y="0" z="0" />
       </transform>
       <whiteMesh />
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>9C9C9CFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -67,7 +67,7 @@
         <mesh></mesh>
         <image>NoPedestriansBikes</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -95,7 +95,7 @@
           <mesh></mesh>
           <image>Backside Circle</image>
         </imageMesh>
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>

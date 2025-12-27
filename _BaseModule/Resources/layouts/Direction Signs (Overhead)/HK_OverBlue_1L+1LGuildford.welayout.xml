@@ -13,7 +13,7 @@
       <mesh></mesh>
       <image>Blue Empty Wide</image>
     </imageMesh>
-    <defaultStyle>
+    <defaultStyle  renderBackface="true">
       <color>FFFFFFFF</color>
       <emissiveColor>FFFFFFFF</emissiveColor>
       <metallic>0</metallic>
@@ -41,7 +41,7 @@
         <text>Kowloon</text>
         <MaxWidthMeters>0</MaxWidthMeters>
       </textMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -70,7 +70,7 @@
         <text>San Min (S)</text>
         <MaxWidthMeters>0</MaxWidthMeters>
       </textMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -99,7 +99,7 @@
         <text>九龍 及 月半</text>
         <MaxWidthMeters>0</MaxWidthMeters>
       </textMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -128,7 +128,7 @@
         <mesh></mesh>
         <image>Route_number</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -156,7 +156,7 @@
           <text>1</text>
           <MaxWidthMeters>0</MaxWidthMeters>
         </textMesh>
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>000000FF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -186,7 +186,7 @@
         <mesh></mesh>
         <image>Arrow_Down</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -215,7 +215,7 @@
         <mesh></mesh>
         <image>Arrow_Down</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -241,7 +241,7 @@
         <arraySpacing x="0" y="0" z="0" />
       </transform>
       <whiteMesh />
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>8E9294FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -270,7 +270,7 @@
         <text>三民南,萬林,信義</text>
         <MaxWidthMeters>0</MaxWidthMeters>
       </textMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -296,7 +296,7 @@
         <arraySpacing x="0" y="0" z="0" />
       </transform>
       <whiteMesh />
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -325,7 +325,7 @@
         <text>Yue Ban</text>
         <MaxWidthMeters>0</MaxWidthMeters>
       </textMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -354,7 +354,7 @@
         <text>Wan Lin, Xin Yi</text>
         <MaxWidthMeters>0</MaxWidthMeters>
       </textMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -383,7 +383,7 @@
         <mesh></mesh>
         <image>Green Empty Wide</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -411,7 +411,7 @@
           <mesh></mesh>
           <image>Highway_Start</image>
         </imageMesh>
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>

@@ -10,7 +10,7 @@
       <arraySpacing x="0" y="0" z="0" />
     </transform>
     <whiteCubeMesh />
-    <defaultStyle>
+    <defaultStyle  renderBackface="true">
       <color>A1A1A1FF</color>
       <emissiveColor>FFFFFFFF</emissiveColor>
       <metallic>0</metallic>
@@ -35,7 +35,7 @@
         <arraySpacing x="0" y="0" z="0" />
       </transform>
       <whiteMesh />
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>000000FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -63,7 +63,7 @@
           <mesh></mesh>
           <image>Red Circle LED</image>
         </imageMesh>
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FF0000FF</emissiveColor>
           <metallic>0</metallic>
@@ -92,7 +92,7 @@
           <text>100</text>
           <MaxWidthMeters>0</MaxWidthMeters>
         </textMesh>
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>

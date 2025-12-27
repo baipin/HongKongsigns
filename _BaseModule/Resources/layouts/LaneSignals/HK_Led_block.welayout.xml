@@ -10,7 +10,7 @@
       <arraySpacing x="0" y="0" z="0" />
     </transform>
     <whiteCubeMesh />
-    <defaultStyle>
+    <defaultStyle  renderBackface="true">
       <color>B0B0B0FF</color>
       <emissiveColor>FFFFFFFF</emissiveColor>
       <metallic>0</metallic>

@@ -13,7 +13,7 @@
       <mesh></mesh>
       <image>L</image>
     </imageMesh>
-    <defaultStyle>
+    <defaultStyle  renderBackface="true">
       <color>E3E3E3FF</color>
       <emissiveColor>FFFFFFFF</emissiveColor>
       <metallic>0</metallic>
@@ -41,7 +41,7 @@
         <mesh></mesh>
         <image>M</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>E3E3E3FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -66,7 +66,7 @@
           <arraySpacing x="0" y="0" z="0" />
         </transform>
         <whiteCubeMesh />
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>000000FF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -94,7 +94,7 @@
             <mesh></mesh>
             <image>Go</image>
           </imageMesh>
-          <defaultStyle>
+          <defaultStyle  renderBackface="true">
             <color>1FFF39FF</color>
             <emissiveColor>28FA46FF</emissiveColor>
             <metallic>0</metallic>
@@ -125,7 +125,7 @@
         <mesh></mesh>
         <image>Link</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>E3E3E3FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -154,7 +154,7 @@
         <mesh></mesh>
         <image>M</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>E3E3E3FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -179,7 +179,7 @@
           <arraySpacing x="0" y="0" z="0" />
         </transform>
         <whiteCubeMesh />
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>000000FF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -207,7 +207,7 @@
             <mesh></mesh>
             <image>Go</image>
           </imageMesh>
-          <defaultStyle>
+          <defaultStyle  renderBackface="true">
             <color>1FFF39FF</color>
             <emissiveColor>28FA46FF</emissiveColor>
             <metallic>0</metallic>
@@ -238,7 +238,7 @@
         <mesh></mesh>
         <image>Link</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>E3E3E3FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -267,7 +267,7 @@
         <mesh></mesh>
         <image>M</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>E3E3E3FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -292,7 +292,7 @@
           <arraySpacing x="0" y="0" z="0" />
         </transform>
         <whiteCubeMesh />
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>000000FF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -320,7 +320,7 @@
             <mesh></mesh>
             <image>Go</image>
           </imageMesh>
-          <defaultStyle>
+          <defaultStyle  renderBackface="true">
             <color>1FFF39FF</color>
             <emissiveColor>28FA46FF</emissiveColor>
             <metallic>0</metallic>
@@ -351,7 +351,7 @@
         <mesh></mesh>
         <image>Link</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>E3E3E3FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -380,7 +380,7 @@
         <mesh></mesh>
         <image>R</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>E3E3E3FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -409,7 +409,7 @@
         <mesh></mesh>
         <image>Link</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>E3E3E3FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -435,7 +435,7 @@
         <arraySpacing x="0" y="0" z="0" />
       </transform>
       <whiteCubeMesh />
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -460,7 +460,7 @@
           <arraySpacing x="0" y="0" z="0" />
         </transform>
         <whiteMesh />
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>B5B5B5FF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -486,7 +486,7 @@
           <arraySpacing x="0" y="0" z="0" />
         </transform>
         <whiteMesh />
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>828282FF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -516,7 +516,7 @@
         <mesh></mesh>
         <image>OverDirection_with_arrow_3L_G</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -544,7 +544,7 @@
           <text>Quan Du (Outbound)</text>
           <MaxWidthMeters>0</MaxWidthMeters>
         </textMesh>
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -570,7 +570,7 @@
           <arraySpacing x="0" y="0" z="0" />
         </transform>
         <whiteMesh />
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>8E9294FF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -599,7 +599,7 @@
           <text>泉都 （出境）</text>
           <MaxWidthMeters>0</MaxWidthMeters>
         </textMesh>
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -628,7 +628,7 @@
           <text>1</text>
           <MaxWidthMeters>0</MaxWidthMeters>
         </textMesh>
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>000000FF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -657,7 +657,7 @@
           <text>1</text>
           <MaxWidthMeters>0</MaxWidthMeters>
         </textMesh>
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>000000FF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -686,7 +686,7 @@
           <text>1</text>
           <MaxWidthMeters>0</MaxWidthMeters>
         </textMesh>
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>000000FF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -716,7 +716,7 @@
         <mesh></mesh>
         <image>M</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>E3E3E3FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -741,7 +741,7 @@
           <arraySpacing x="0" y="0" z="0" />
         </transform>
         <whiteCubeMesh />
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>000000FF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -769,7 +769,7 @@
             <mesh></mesh>
             <image>Go</image>
           </imageMesh>
-          <defaultStyle>
+          <defaultStyle  renderBackface="true">
             <color>1FFF39FF</color>
             <emissiveColor>28FA46FF</emissiveColor>
             <metallic>0</metallic>
@@ -800,7 +800,7 @@
         <mesh></mesh>
         <image>Link</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>E3E3E3FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -829,7 +829,7 @@
         <mesh></mesh>
         <image>Green Empty Wide</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -857,7 +857,7 @@
           <text>Info Street</text>
           <MaxWidthMeters>0</MaxWidthMeters>
         </textMesh>
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -886,7 +886,7 @@
           <text>信工街</text>
           <MaxWidthMeters>0</MaxWidthMeters>
         </textMesh>
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -915,7 +915,7 @@
           <mesh></mesh>
           <image>Arrow_Down</image>
         </imageMesh>
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -941,7 +941,7 @@
           <arraySpacing x="0" y="0" z="0" />
         </transform>
         <whiteMesh />
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>8E9294FF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -970,7 +970,7 @@
           <mesh></mesh>
           <image>Exit_Number</image>
         </imageMesh>
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -998,7 +998,7 @@
             <text>19</text>
             <MaxWidthMeters>0</MaxWidthMeters>
           </textMesh>
-          <defaultStyle>
+          <defaultStyle  renderBackface="true">
             <color>FFFFFFFF</color>
             <emissiveColor>FFFFFFFF</emissiveColor>
             <metallic>0</metallic>
@@ -1028,7 +1028,7 @@
           <mesh></mesh>
           <image>Highway_Start</image>
         </imageMesh>
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>

@@ -10,7 +10,7 @@
       <arraySpacing x="0" y="0" z="0" />
     </transform>
     <whiteMesh />
-    <defaultStyle>
+    <defaultStyle  renderBackface="true">
       <color>3B3B3BFF</color>
       <emissiveColor>FFFFFFFF</emissiveColor>
       <metallic>0</metallic>
@@ -38,7 +38,7 @@
         <text>GIVE WAY TO BUS</text>
         <MaxWidthMeters>0</MaxWidthMeters>
       </textMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>F7FF1CFF</color>
         <emissiveColor>F8FF38FF</emissiveColor>
         <metallic>0</metallic>
@@ -67,7 +67,7 @@
         <text>請讓巴士</text>
         <MaxWidthMeters>0</MaxWidthMeters>
       </textMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>F7FF1CFF</color>
         <emissiveColor>F8FF2EFF</emissiveColor>
         <metallic>0</metallic>

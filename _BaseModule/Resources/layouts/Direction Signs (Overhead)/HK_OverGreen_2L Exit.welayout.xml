@@ -13,7 +13,7 @@
       <mesh></mesh>
       <image>Green Empty Wide</image>
     </imageMesh>
-    <defaultStyle>
+    <defaultStyle  renderBackface="true">
       <color>FFFFFFFF</color>
       <emissiveColor>FFFFFFFF</emissiveColor>
       <metallic>0</metallic>
@@ -41,7 +41,7 @@
         <text>Central</text>
         <MaxWidthMeters>0</MaxWidthMeters>
       </textMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -70,7 +70,7 @@
         <text>中區</text>
         <MaxWidthMeters>0</MaxWidthMeters>
       </textMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -99,7 +99,7 @@
         <mesh></mesh>
         <image>Arrow_Down</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -125,7 +125,7 @@
         <arraySpacing x="0" y="0" z="0" />
       </transform>
       <whiteMesh />
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>8E9294FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -154,7 +154,7 @@
         <mesh></mesh>
         <image>Exit_Number</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -182,7 +182,7 @@
           <text>19</text>
           <MaxWidthMeters>0</MaxWidthMeters>
         </textMesh>
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -212,7 +212,7 @@
         <mesh></mesh>
         <image>Highway_Start</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -241,7 +241,7 @@
         <mesh></mesh>
         <image>Arrow_Down</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>

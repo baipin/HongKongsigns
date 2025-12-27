@@ -13,7 +13,7 @@
       <mesh></mesh>
       <image>Destination Short_R</image>
     </imageMesh>
-    <defaultStyle>
+    <defaultStyle  renderBackface="true">
       <color>FFFFFFFF</color>
       <emissiveColor>FFFFFFFF</emissiveColor>
       <metallic>0</metallic>
@@ -38,7 +38,7 @@
         <arraySpacing x="0" y="0" z="0" />
       </transform>
       <whiteMesh />
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>8F8F8FFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -67,7 +67,7 @@
         <text>Town Centre</text>
         <MaxWidthMeters>0</MaxWidthMeters>
       </textMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>000000FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -96,7 +96,7 @@
         <text>市中心</text>
         <MaxWidthMeters>0</MaxWidthMeters>
       </textMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>000000FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>

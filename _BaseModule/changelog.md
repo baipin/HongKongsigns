@@ -1,4 +1,3 @@
-**v1.1.8**  
-### Added
-- Traffic light style in Hong Kong.
-- Layouts for empty red.
+**v1.1.9**  
+### Fixed
+- The problem that the signs will not rendered by default according to Write Everywhere new change. This version fixed the problem by setting "rendering backface" specifically.

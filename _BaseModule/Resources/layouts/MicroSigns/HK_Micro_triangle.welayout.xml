@@ -13,7 +13,7 @@
       <mesh></mesh>
       <image>Right_curve</image>
     </imageMesh>
-    <defaultStyle>
+    <defaultStyle  renderBackface="true">
       <color>FFFFFFFF</color>
       <emissiveColor>FFFFFFFF</emissiveColor>
       <metallic>0</metallic>
@@ -41,7 +41,7 @@
         <mesh></mesh>
         <image>Backside Triangle</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>

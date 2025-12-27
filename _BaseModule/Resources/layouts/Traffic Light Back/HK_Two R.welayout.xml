@@ -13,7 +13,7 @@
       <mesh></mesh>
       <image>HKTL_Back</image>
     </imageMesh>
-    <defaultStyle>
+    <defaultStyle  renderBackface="true">
       <color>FFFFFFFF</color>
       <emissiveColor>FFFFFFFF</emissiveColor>
       <metallic>0</metallic>
@@ -41,7 +41,7 @@
         <mesh></mesh>
         <image>HKTL_Back</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -69,7 +69,7 @@
           <mesh></mesh>
           <image>HKTL_Back</image>
         </imageMesh>
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>000000FF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -99,7 +99,7 @@
         <mesh></mesh>
         <image>HKTL_Back</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>000000FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>

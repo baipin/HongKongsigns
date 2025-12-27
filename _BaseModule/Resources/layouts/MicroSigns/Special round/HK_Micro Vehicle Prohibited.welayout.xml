@@ -13,7 +13,7 @@
       <mesh></mesh>
       <image>VehicleProhibited</image>
     </imageMesh>
-    <defaultStyle>
+    <defaultStyle  renderBackface="true">
       <color>FFFFFFFF</color>
       <emissiveColor>FFFFFFFF</emissiveColor>
       <metallic>0</metallic>
@@ -41,7 +41,7 @@
         <mesh></mesh>
         <image>Backside Circle</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -70,7 +70,7 @@
         <mesh></mesh>
         <image>ExceptBuses</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -95,7 +95,7 @@
           <arraySpacing x="0" y="0" z="0" />
         </transform>
         <whiteMesh />
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>595959FF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -125,7 +125,7 @@
         <mesh></mesh>
         <image>ExceptTaxi</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -150,7 +150,7 @@
           <arraySpacing x="0" y="0" z="0" />
         </transform>
         <whiteMesh />
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>595959FF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -180,7 +180,7 @@
         <mesh></mesh>
         <image>RestrictionLeft</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -205,7 +205,7 @@
           <arraySpacing x="0" y="0" z="0" />
         </transform>
         <whiteMesh />
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>595959FF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>

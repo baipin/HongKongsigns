@@ -13,7 +13,7 @@
       <mesh></mesh>
       <image>OverDirection_Empty_3L_B</image>
     </imageMesh>
-    <defaultStyle>
+    <defaultStyle  renderBackface="true">
       <color>FFFFFFFF</color>
       <emissiveColor>FFFFFFFF</emissiveColor>
       <metallic>0</metallic>
@@ -41,7 +41,7 @@
         <text>Tuen Mum &amp;  Yuen Long</text>
         <MaxWidthMeters>0</MaxWidthMeters>
       </textMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -67,7 +67,7 @@
         <arraySpacing x="0" y="0" z="0" />
       </transform>
       <whiteMesh />
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>8E9294FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -96,7 +96,7 @@
         <mesh></mesh>
         <image>DirectionTunnel</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -125,7 +125,7 @@
         <text>屯門 及 元朗</text>
         <MaxWidthMeters>0</MaxWidthMeters>
       </textMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -154,7 +154,7 @@
         <mesh></mesh>
         <image>Arrow_Down</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -182,7 +182,7 @@
           <mesh></mesh>
           <image>Route_number</image>
         </imageMesh>
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -210,7 +210,7 @@
             <text>1</text>
             <MaxWidthMeters>0</MaxWidthMeters>
           </textMesh>
-          <defaultStyle>
+          <defaultStyle  renderBackface="true">
             <color>000000FF</color>
             <emissiveColor>FFFFFFFF</emissiveColor>
             <metallic>0</metallic>
@@ -241,7 +241,7 @@
         <mesh></mesh>
         <image>Arrow_Down</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -269,7 +269,7 @@
           <mesh></mesh>
           <image>Route_number</image>
         </imageMesh>
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -297,7 +297,7 @@
             <text>1</text>
             <MaxWidthMeters>0</MaxWidthMeters>
           </textMesh>
-          <defaultStyle>
+          <defaultStyle  renderBackface="true">
             <color>000000FF</color>
             <emissiveColor>FFFFFFFF</emissiveColor>
             <metallic>0</metallic>
@@ -328,7 +328,7 @@
         <mesh></mesh>
         <image>Arrow_Down</image>
       </imageMesh>
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -356,7 +356,7 @@
           <mesh></mesh>
           <image>Route_number</image>
         </imageMesh>
-        <defaultStyle>
+        <defaultStyle  renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -384,7 +384,7 @@
             <text>1</text>
             <MaxWidthMeters>0</MaxWidthMeters>
           </textMesh>
-          <defaultStyle>
+          <defaultStyle  renderBackface="true">
             <color>000000FF</color>
             <emissiveColor>FFFFFFFF</emissiveColor>
             <metallic>0</metallic>
@@ -412,7 +412,7 @@
         <arraySpacing x="0" y="0" z="0" />
       </transform>
       <whiteMesh />
-      <defaultStyle>
+      <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
