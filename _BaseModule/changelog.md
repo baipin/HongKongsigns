@@ -1,5 +1,7 @@
-**v1.1.10**
+**v1.1.11**
 ### Added
-- Layouts for micro signs attached to "Highway Sign Frame Pack".
-### Fixed
-- The problem that the lane signal layouts don't match "Highway Sign Frame Pack".
+- Images: N/N Reverse Road Ahead with "Reduce Speed Now" Warning.
+- Layouts: Give way sign, some new layouts for overhead sign.
+
+### Changed
+- The overhead sign layouts angle is now suitable for Highway Sign Frame pack made by me.

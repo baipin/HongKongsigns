@@ -1,8 +1,8 @@
 <WELayout>
   <self itemName="Main Direction Sign">
     <transform alignment="Left" arrayAxisOrder="XYZ">
-      <offsetPosition x="-1.33912826" y="0.98" z="0.283090025" />
-      <offsetRotation x="-0" y="178.7" z="0" />
+      <offsetPosition x="-0.599787354" y="6.53" z="-3.97883034" />
+      <offsetRotation x="-0" y="270" z="0" />
       <scale x="3.37500024" y="2.25" z="1" />
       <mustDraw>1</mustDraw>
       <instanceCount>-1</instanceCount>
@@ -13,7 +13,7 @@
       <mesh></mesh>
       <image>Blue Empty Wide</image>
     </imageMesh>
-    <defaultStyle  renderBackface="true">
+    <defaultStyle renderBackface="true">
       <color>FFFFFFFF</color>
       <emissiveColor>FFFFFFFF</emissiveColor>
       <metallic>0</metallic>
@@ -37,11 +37,11 @@
         <arrayInstances x="1" y="1" z="1" />
         <arraySpacing x="0" y="0" z="0" />
       </transform>
-      <textMesh fontName="DINMittelschriftStd">
+      <textMesh fontName="Transport_Medium">
         <text>Wan Chai</text>
         <MaxWidthMeters>0</MaxWidthMeters>
       </textMesh>
-      <defaultStyle  renderBackface="true">
+      <defaultStyle renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -70,123 +70,7 @@
         <text>灣仔</text>
         <MaxWidthMeters>0</MaxWidthMeters>
       </textMesh>
-      <defaultStyle  renderBackface="true">
-        <color>FFFFFFFF</color>
-        <emissiveColor>FFFFFFFF</emissiveColor>
-        <metallic>0</metallic>
-        <smoothness>0</smoothness>
-        <emissiveIntensity>0</emissiveIntensity>
-        <emissiveExposureWeight>0</emissiveExposureWeight>
-        <coatStrength>0</coatStrength>
-        <colorMask1>FFFFFF</colorMask1>
-        <colorMask2>FFFFFF</colorMask2>
-        <colorMask3>FFFFFF</colorMask3>
-      </defaultStyle>
-    </self>
-  </children>
-  <children>
-    <self itemName="Route Number L">
-      <transform alignment="Left" arrayAxisOrder="XYZ">
-        <offsetPosition x="0.729999661" y="-0.7399127" z="0.01" />
-        <offsetRotation x="-0" y="0" z="0.49999994" />
-        <scale x="0.4" y="0.4" z="1" />
-        <mustDraw>1</mustDraw>
-        <instanceCount>-1</instanceCount>
-        <arrayInstances x="1" y="1" z="1" />
-        <arraySpacing x="0" y="0" z="0" />
-      </transform>
-      <imageMesh atlas="baipinHongKongsigns:SmallMarks">
-        <mesh></mesh>
-        <image>Route_number</image>
-      </imageMesh>
-      <defaultStyle  renderBackface="true">
-        <color>FFFFFFFF</color>
-        <emissiveColor>FFFFFFFF</emissiveColor>
-        <metallic>0</metallic>
-        <smoothness>0</smoothness>
-        <emissiveIntensity>0</emissiveIntensity>
-        <emissiveExposureWeight>0</emissiveExposureWeight>
-        <coatStrength>0</coatStrength>
-        <colorMask1>FFFFFF</colorMask1>
-        <colorMask2>FFFFFF</colorMask2>
-        <colorMask3>FFFFFF</colorMask3>
-      </defaultStyle>
-    </self>
-    <children>
-      <self itemName="Number">
-        <transform alignment="Left" arrayAxisOrder="XYZ">
-          <offsetPosition x="-0.01" y="0" z="0" />
-          <offsetRotation x="-0" y="0" z="0" />
-          <scale x="0.2" y="0.2" z="1" />
-          <mustDraw>1</mustDraw>
-          <instanceCount>-1</instanceCount>
-          <arrayInstances x="1" y="1" z="1" />
-          <arraySpacing x="0" y="0" z="0" />
-        </transform>
-        <textMesh fontName="DINMittelschriftStd">
-          <text>1</text>
-          <MaxWidthMeters>0</MaxWidthMeters>
-        </textMesh>
-        <defaultStyle  renderBackface="true">
-          <color>000000FF</color>
-          <emissiveColor>FFFFFFFF</emissiveColor>
-          <metallic>0</metallic>
-          <smoothness>0</smoothness>
-          <emissiveIntensity>0</emissiveIntensity>
-          <emissiveExposureWeight>0</emissiveExposureWeight>
-          <coatStrength>0</coatStrength>
-          <colorMask1>FFFFFF</colorMask1>
-          <colorMask2>FFFFFF</colorMask2>
-          <colorMask3>FFFFFF</colorMask3>
-        </defaultStyle>
-      </self>
-    </children>
-  </children>
-  <children>
-    <self itemName="Arrow L">
-      <transform alignment="Left" arrayAxisOrder="XYZ">
-        <offsetPosition x="1.37244308" y="-0.7499021" z="0" />
-        <offsetRotation x="-0" y="-0" z="1.39995289" />
-        <scale x="0.5" y="0.5" z="1" />
-        <mustDraw>1</mustDraw>
-        <instanceCount>-1</instanceCount>
-        <arrayInstances x="1" y="1" z="1" />
-        <arraySpacing x="0" y="0" z="0" />
-      </transform>
-      <imageMesh atlas="baipinHongKongsigns:SmallMarks">
-        <mesh></mesh>
-        <image>Arrow_Down</image>
-      </imageMesh>
-      <defaultStyle  renderBackface="true">
-        <color>FFFFFFFF</color>
-        <emissiveColor>FFFFFFFF</emissiveColor>
-        <metallic>0</metallic>
-        <smoothness>0</smoothness>
-        <emissiveIntensity>0</emissiveIntensity>
-        <emissiveExposureWeight>0</emissiveExposureWeight>
-        <coatStrength>0</coatStrength>
-        <colorMask1>FFFFFF</colorMask1>
-        <colorMask2>FFFFFF</colorMask2>
-        <colorMask3>FFFFFF</colorMask3>
-      </defaultStyle>
-    </self>
-  </children>
-  <children>
-    <self itemName="Arrow R">
-      <transform alignment="Left" arrayAxisOrder="XYZ">
-        <offsetPosition x="-1.448144" y="-0.7532376" z="0" />
-        <offsetRotation x="-0" y="0" z="358.799957" />
-        <scale x="0.5" y="0.5" z="1" />
-        <mustDraw>1</mustDraw>
-        <instanceCount>-1</instanceCount>
-        <arrayInstances x="1" y="1" z="1" />
-        <arraySpacing x="0" y="0" z="0" />
-      </transform>
-      <imageMesh atlas="baipinHongKongsigns:SmallMarks">
-        <mesh></mesh>
-        <image>Arrow_Down</image>
-      </imageMesh>
-      <defaultStyle  renderBackface="true">
+      <defaultStyle renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -212,7 +96,7 @@
         <arraySpacing x="0" y="0" z="0" />
       </transform>
       <whiteMesh />
-      <defaultStyle  renderBackface="true">
+      <defaultStyle renderBackface="true">
         <color>8E9294FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -229,7 +113,7 @@
   <children>
     <self itemName="Exit Direction">
       <transform alignment="Left" isAbsoluteScale="true" arrayAxisOrder="XYZ">
-        <offsetPosition x="-4.04" y="7.450581E-09" z="0.0100000612" />
+        <offsetPosition x="-4.0199995" y="7.450581E-09" z="0.0100000612" />
         <offsetRotation x="-0" y="0" z="0" />
         <scale x="2.75" y="2.25" z="1" />
         <mustDraw>1</mustDraw>
@@ -241,7 +125,7 @@
         <mesh></mesh>
         <image>Blue Empty Wide</image>
       </imageMesh>
-      <defaultStyle  renderBackface="true">
+      <defaultStyle renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -265,11 +149,11 @@
           <arrayInstances x="1" y="1" z="1" />
           <arraySpacing x="0" y="0" z="0" />
         </transform>
-        <textMesh fontName="din1451alt">
+        <textMesh fontName="Transport_Medium">
           <text>Central</text>
           <MaxWidthMeters>0</MaxWidthMeters>
         </textMesh>
-        <defaultStyle  renderBackface="true">
+        <defaultStyle renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -298,36 +182,7 @@
           <text>中區</text>
           <MaxWidthMeters>0</MaxWidthMeters>
         </textMesh>
-        <defaultStyle  renderBackface="true">
-          <color>FFFFFFFF</color>
-          <emissiveColor>FFFFFFFF</emissiveColor>
-          <metallic>0</metallic>
-          <smoothness>0</smoothness>
-          <emissiveIntensity>0</emissiveIntensity>
-          <emissiveExposureWeight>0</emissiveExposureWeight>
-          <coatStrength>0</coatStrength>
-          <colorMask1>FFFFFF</colorMask1>
-          <colorMask2>FFFFFF</colorMask2>
-          <colorMask3>FFFFFF</colorMask3>
-        </defaultStyle>
-      </self>
-    </children>
-    <children>
-      <self itemName="Arrow">
-        <transform alignment="Left" arrayAxisOrder="XYZ">
-          <offsetPosition x="-0.00195455668" y="-0.749976158" z="0" />
-          <offsetRotation x="-0" y="0" z="358.6" />
-          <scale x="0.5" y="0.5" z="1" />
-          <mustDraw>1</mustDraw>
-          <instanceCount>-1</instanceCount>
-          <arrayInstances x="1" y="1" z="1" />
-          <arraySpacing x="0" y="0" z="0" />
-        </transform>
-        <imageMesh atlas="baipinHongKongsigns:SmallMarks">
-          <mesh></mesh>
-          <image>Arrow_Down</image>
-        </imageMesh>
-        <defaultStyle  renderBackface="true">
+        <defaultStyle renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -353,7 +208,7 @@
           <arraySpacing x="0" y="0" z="0" />
         </transform>
         <whiteMesh />
-        <defaultStyle  renderBackface="true">
+        <defaultStyle renderBackface="true">
           <color>8E9294FF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -368,11 +223,11 @@
       </self>
     </children>
     <children>
-      <self itemName="Exit Number">
+      <self itemName="Arrow with Exit Number">
         <transform alignment="Left" arrayAxisOrder="XYZ">
-          <offsetPosition x="-0.87" y="-0.77" z="0" />
+          <offsetPosition x="0.04000014" y="-0.74999994" z="0" />
           <offsetRotation x="-0" y="0" z="0" />
-          <scale x="0.4" y="0.4" z="1" />
+          <scale x="0.5" y="0.5" z="1" />
           <mustDraw>1</mustDraw>
           <instanceCount>-1</instanceCount>
           <arrayInstances x="1" y="1" z="1" />
@@ -380,9 +235,125 @@
         </transform>
         <imageMesh atlas="baipinHongKongsigns:SmallMarks">
           <mesh></mesh>
-          <image>Exit_Number</image>
+          <image>Arrow_Down</image>
         </imageMesh>
-        <defaultStyle  renderBackface="true">
+        <defaultStyle renderBackface="true">
+          <color>FFFFFFFF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+      <children>
+        <self itemName="Exit">
+          <transform alignment="Left" arrayAxisOrder="XYZ">
+            <offsetPosition x="-0.909999967" y="0.02" z="0" />
+            <offsetRotation x="-0" y="0" z="0" />
+            <scale x="0.45" y="0.45" z="1" />
+            <mustDraw>1</mustDraw>
+            <instanceCount>-1</instanceCount>
+            <arrayInstances x="1" y="1" z="1" />
+            <arraySpacing x="0" y="0" z="0" />
+          </transform>
+          <imageMesh atlas="baipinHongKongsigns:SmallMarks">
+            <mesh></mesh>
+            <image>Exit_Number</image>
+          </imageMesh>
+          <defaultStyle renderBackface="true">
+            <color>FFFFFFFF</color>
+            <emissiveColor>FFFFFFFF</emissiveColor>
+            <metallic>0</metallic>
+            <smoothness>0</smoothness>
+            <emissiveIntensity>0</emissiveIntensity>
+            <emissiveExposureWeight>0</emissiveExposureWeight>
+            <coatStrength>0</coatStrength>
+            <colorMask1>FFFFFF</colorMask1>
+            <colorMask2>FFFFFF</colorMask2>
+            <colorMask3>FFFFFF</colorMask3>
+          </defaultStyle>
+        </self>
+        <children>
+          <self itemName="Number">
+            <transform alignment="Left" arrayAxisOrder="XYZ">
+              <offsetPosition x="-0.11" y="-0.01" z="0" />
+              <offsetRotation x="-0" y="0" z="0" />
+              <scale x="0.33" y="0.33" z="1" />
+              <mustDraw>1</mustDraw>
+              <instanceCount>-1</instanceCount>
+              <arrayInstances x="1" y="1" z="1" />
+              <arraySpacing x="0" y="0" z="0" />
+            </transform>
+            <textMesh fontName="Transport_Medium">
+              <text>1</text>
+              <MaxWidthMeters>0</MaxWidthMeters>
+            </textMesh>
+            <defaultStyle renderBackface="true">
+              <color>FFFFFFFF</color>
+              <emissiveColor>FFFFFFFF</emissiveColor>
+              <metallic>0</metallic>
+              <smoothness>0</smoothness>
+              <emissiveIntensity>0</emissiveIntensity>
+              <emissiveExposureWeight>0</emissiveExposureWeight>
+              <coatStrength>0</coatStrength>
+              <colorMask1>FFFFFF</colorMask1>
+              <colorMask2>FFFFFF</colorMask2>
+              <colorMask3>FFFFFF</colorMask3>
+            </defaultStyle>
+          </self>
+        </children>
+      </children>
+    </children>
+  </children>
+  <children>
+    <self itemName="Arrow with Route Number">
+      <transform alignment="Left" arrayAxisOrder="XYZ">
+        <offsetPosition x="1.43999982" y="-0.7699999" z="0" />
+        <offsetRotation x="-0" y="0" z="0" />
+        <scale x="0.5" y="0.5" z="1" />
+        <mustDraw>1</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arrayInstances x="1" y="1" z="1" />
+        <arraySpacing x="0" y="0" z="0" />
+      </transform>
+      <imageMesh atlas="baipinHongKongsigns:SmallMarks">
+        <mesh></mesh>
+        <image>Arrow_Down</image>
+      </imageMesh>
+      <defaultStyle renderBackface="true">
+        <color>FFFFFFFF</color>
+        <emissiveColor>FFFFFFFF</emissiveColor>
+        <metallic>0</metallic>
+        <smoothness>0</smoothness>
+        <emissiveIntensity>0</emissiveIntensity>
+        <emissiveExposureWeight>0</emissiveExposureWeight>
+        <coatStrength>0</coatStrength>
+        <colorMask1>FFFFFF</colorMask1>
+        <colorMask2>FFFFFF</colorMask2>
+        <colorMask3>FFFFFF</colorMask3>
+      </defaultStyle>
+    </self>
+    <children>
+      <self itemName="Route">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-0.71" y="0.01" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="0.5" y="0.5" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arrayInstances x="1" y="1" z="1" />
+          <arraySpacing x="0" y="0" z="0" />
+        </transform>
+        <imageMesh atlas="baipinHongKongsigns:SmallMarks">
+          <mesh></mesh>
+          <image>Route_number</image>
+        </imageMesh>
+        <defaultStyle renderBackface="true">
           <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -398,20 +369,20 @@
       <children>
         <self itemName="Number">
           <transform alignment="Left" arrayAxisOrder="XYZ">
-            <offsetPosition x="-0.12" y="0.01" z="0" />
+            <offsetPosition x="0" y="-0.03" z="0" />
             <offsetRotation x="-0" y="0" z="0" />
-            <scale x="0.25" y="0.25" z="1" />
+            <scale x="0.29" y="0.29" z="1" />
             <mustDraw>1</mustDraw>
             <instanceCount>-1</instanceCount>
             <arrayInstances x="1" y="1" z="1" />
             <arraySpacing x="0" y="0" z="0" />
           </transform>
-          <textMesh fontName="">
-            <text>19</text>
+          <textMesh fontName="Transport_Medium">
+            <text>1</text>
             <MaxWidthMeters>0</MaxWidthMeters>
           </textMesh>
-          <defaultStyle  renderBackface="true">
-            <color>FFFFFFFF</color>
+          <defaultStyle renderBackface="true">
+            <color>000000FF</color>
             <emissiveColor>FFFFFFFF</emissiveColor>
             <metallic>0</metallic>
             <smoothness>0</smoothness>
@@ -427,11 +398,11 @@
     </children>
   </children>
   <children>
-    <self itemName="Route Number R">
+    <self itemName="Arrow with Route Number">
       <transform alignment="Left" arrayAxisOrder="XYZ">
-        <offsetPosition x="-2.109892" y="-0.764696062" z="0.03" />
-        <offsetRotation x="-0" y="0" z="0.49999994" />
-        <scale x="0.4" y="0.4" z="1" />
+        <offsetPosition x="-1.10000014" y="-0.759999931" z="0" />
+        <offsetRotation x="-0" y="0" z="0" />
+        <scale x="0.5" y="0.5" z="1" />
         <mustDraw>1</mustDraw>
         <instanceCount>-1</instanceCount>
         <arrayInstances x="1" y="1" z="1" />
@@ -439,9 +410,9 @@
       </transform>
       <imageMesh atlas="baipinHongKongsigns:SmallMarks">
         <mesh></mesh>
-        <image>Route_number</image>
+        <image>Arrow_Down</image>
       </imageMesh>
-      <defaultStyle  renderBackface="true">
+      <defaultStyle renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -455,22 +426,22 @@
       </defaultStyle>
     </self>
     <children>
-      <self itemName="Number">
+      <self itemName="Route">
         <transform alignment="Left" arrayAxisOrder="XYZ">
-          <offsetPosition x="-0.01" y="0" z="0" />
+          <offsetPosition x="-0.71" y="0.01" z="0" />
           <offsetRotation x="-0" y="0" z="0" />
-          <scale x="0.2" y="0.2" z="1" />
+          <scale x="0.5" y="0.5" z="1" />
           <mustDraw>1</mustDraw>
           <instanceCount>-1</instanceCount>
           <arrayInstances x="1" y="1" z="1" />
           <arraySpacing x="0" y="0" z="0" />
         </transform>
-        <textMesh fontName="DINMittelschriftStd">
-          <text>1</text>
-          <MaxWidthMeters>0</MaxWidthMeters>
-        </textMesh>
-        <defaultStyle  renderBackface="true">
-          <color>000000FF</color>
+        <imageMesh atlas="baipinHongKongsigns:SmallMarks">
+          <mesh></mesh>
+          <image>Route_number</image>
+        </imageMesh>
+        <defaultStyle renderBackface="true">
+          <color>FFFFFFFF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
           <smoothness>0</smoothness>
@@ -482,6 +453,35 @@
           <colorMask3>FFFFFF</colorMask3>
         </defaultStyle>
       </self>
+      <children>
+        <self itemName="Number">
+          <transform alignment="Left" arrayAxisOrder="XYZ">
+            <offsetPosition x="0" y="-0.03" z="0" />
+            <offsetRotation x="-0" y="0" z="0" />
+            <scale x="0.29" y="0.29" z="1" />
+            <mustDraw>1</mustDraw>
+            <instanceCount>-1</instanceCount>
+            <arrayInstances x="1" y="1" z="1" />
+            <arraySpacing x="0" y="0" z="0" />
+          </transform>
+          <textMesh fontName="Transport_Medium">
+            <text>1</text>
+            <MaxWidthMeters>0</MaxWidthMeters>
+          </textMesh>
+          <defaultStyle renderBackface="true">
+            <color>000000FF</color>
+            <emissiveColor>FFFFFFFF</emissiveColor>
+            <metallic>0</metallic>
+            <smoothness>0</smoothness>
+            <emissiveIntensity>0</emissiveIntensity>
+            <emissiveExposureWeight>0</emissiveExposureWeight>
+            <coatStrength>0</coatStrength>
+            <colorMask1>FFFFFF</colorMask1>
+            <colorMask2>FFFFFF</colorMask2>
+            <colorMask3>FFFFFF</colorMask3>
+          </defaultStyle>
+        </self>
+      </children>
     </children>
   </children>
 </WELayout>

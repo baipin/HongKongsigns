@@ -56,13 +56,15 @@ There might be some differences for pre-layouts, but you can simply adjust manua
 [China Signs Pack](https://mods.paradoxplaza.com/mods/127887/Windows)</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-pack-write-everywhere.1881255/" />
-  <ModVersion Value="1.1.10" />
+  <ModVersion Value="1.1.11" />
   <GameVersion Value="1.5.*" />
-  <ChangeLog>**v1.1.10**
+  <ChangeLog>**v1.1.11**
 ### Added
-- Layouts for micro signs attached to "Highway Sign Frame Pack".
-### Fixed
-- The problem that the lane signal layouts don't match "Highway Sign Frame Pack".</ChangeLog>
+- Images: N/N Reverse Road Ahead with "Reduce Speed Now" Warning.
+- Layouts: Give way sign, some new layouts for overhead sign.
+
+### Changed
+- The overhead sign layouts angle is now suitable for Highway Sign Frame pack made by me.</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshots_1.jpg" />
   <Screenshot Value="Screenshots\Screenshots_2.jpg" />
