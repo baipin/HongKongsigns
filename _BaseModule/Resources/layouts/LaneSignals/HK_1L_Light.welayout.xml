@@ -1,8 +1,8 @@
 <WELayout>
   <self itemName="L">
     <transform alignment="Left" arrayAxisOrder="XYZ">
-      <offsetPosition x="-4.285031" y="0.28000015" z="0.4990849" />
-      <offsetRotation x="-0" y="179.3" z="0" />
+      <offsetPosition x="-0.905030668" y="5.26" z="-1.27091515" />
+      <offsetRotation x="-0" y="270" z="0" />
       <scale x="1" y="1" z="1" />
       <mustDraw>1</mustDraw>
       <instanceCount>-1</instanceCount>
@@ -13,7 +13,7 @@
       <mesh></mesh>
       <image>L</image>
     </imageMesh>
-    <defaultStyle  renderBackface="true">
+    <defaultStyle renderBackface="true">
       <color>E3E3E3FF</color>
       <emissiveColor>FFFFFFFF</emissiveColor>
       <metallic>0</metallic>
@@ -41,7 +41,7 @@
         <mesh></mesh>
         <image>M</image>
       </imageMesh>
-      <defaultStyle  renderBackface="true">
+      <defaultStyle renderBackface="true">
         <color>E3E3E3FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -66,7 +66,7 @@
           <arraySpacing x="0" y="0" z="0" />
         </transform>
         <whiteCubeMesh />
-        <defaultStyle  renderBackface="true">
+        <defaultStyle renderBackface="true">
           <color>000000FF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -94,7 +94,7 @@
             <mesh></mesh>
             <image>Go</image>
           </imageMesh>
-          <defaultStyle  renderBackface="true">
+          <defaultStyle renderBackface="true">
             <color>1FFF39FF</color>
             <emissiveColor>28FA46FF</emissiveColor>
             <metallic>0</metallic>
@@ -113,7 +113,7 @@
   <children>
     <self itemName="Link 1">
       <transform alignment="Left" isAbsoluteScale="true" arrayAxisOrder="XYZ">
-        <offsetPosition x="-0.5100004" y="7.82310963E-08" z="-0.001" />
+        <offsetPosition x="-0.5100004" y="7.82310963E-08" z="-0.002" />
         <offsetRotation x="-0" y="0" z="0" />
         <scale x="1.27" y="1.08" z="1" />
         <mustDraw>1</mustDraw>
@@ -125,7 +125,7 @@
         <mesh></mesh>
         <image>Link</image>
       </imageMesh>
-      <defaultStyle  renderBackface="true">
+      <defaultStyle renderBackface="true">
         <color>E3E3E3FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -154,7 +154,7 @@
         <mesh></mesh>
         <image>R</image>
       </imageMesh>
-      <defaultStyle  renderBackface="true">
+      <defaultStyle renderBackface="true">
         <color>E3E3E3FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -183,7 +183,7 @@
         <mesh></mesh>
         <image>Link</image>
       </imageMesh>
-      <defaultStyle  renderBackface="true">
+      <defaultStyle renderBackface="true">
         <color>E3E3E3FF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -209,7 +209,7 @@
         <arraySpacing x="0" y="0" z="0" />
       </transform>
       <whiteCubeMesh />
-      <defaultStyle  renderBackface="true">
+      <defaultStyle renderBackface="true">
         <color>FFFFFFFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
@@ -234,7 +234,7 @@
           <arraySpacing x="0" y="0" z="0" />
         </transform>
         <whiteMesh />
-        <defaultStyle  renderBackface="true">
+        <defaultStyle renderBackface="true">
           <color>B5B5B5FF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
@@ -260,7 +260,7 @@
           <arraySpacing x="0" y="0" z="0" />
         </transform>
         <whiteMesh />
-        <defaultStyle  renderBackface="true">
+        <defaultStyle renderBackface="true">
           <color>828282FF</color>
           <emissiveColor>FFFFFFFF</emissiveColor>
           <metallic>0</metallic>
