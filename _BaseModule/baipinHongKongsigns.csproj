@@ -18,19 +18,19 @@
   <PropertyGroup>
     <IsBelzontCommonsMod>false</IsBelzontCommonsMod>
     <ModId>125896</ModId>
-    <Version>1.1.12</Version>
+    <Version>1.2.0</Version>
     <GameVersion>1.5.*</GameVersion>
     <ThumbnailPath>Properties/Thumbnail.png</ThumbnailPath>
     <DisplayName>Hong Kong Signs Pack[Write Everywhere]</DisplayName>
     <ShortDescription>Hong Kong signs pack with Write Everywhere</ShortDescription>
     <ForumLink>https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-pack-write-everywhere.1881255/</ForumLink>
     <GitHubLink>https://github.com/baipin/HongKongsigns</GitHubLink>
-    <YoutubeLink></YoutubeLink>
+    <YoutubeLink>https://youtu.be/F7t5pGg3YiE</YoutubeLink>
     <KofiLink>https://ko-fi.com/baipin</KofiLink>
     <BMACLink>https://buymeacoffee.com/baipin</BMACLink>
     <CrowdinLink></CrowdinLink>
     <TwitterLink></TwitterLink>
-	  <DiscordLink>https://discord.com/channels/1024242828114673724/1448607571362713673</DiscordLink>
+	<DiscordLink>https://discord.com/channels/1024242828114673724/1448607571362713673</DiscordLink>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
 
