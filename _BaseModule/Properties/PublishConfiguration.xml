@@ -56,14 +56,11 @@ There might be some differences for pre-layouts, but you can simply adjust manua
 [China Signs Pack](https://mods.paradoxplaza.com/mods/127887/Windows)</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-pack-write-everywhere.1881255/" />
-  <ModVersion Value="1.1.12" />
+  <ModVersion Value="1.2.0" />
   <GameVersion Value="1.5.*" />
-  <ChangeLog>**v1.1.12**
+  <ChangeLog>**v1.2.0**
 ### Added
-- Images: some Direction signs, Road Closed Ahead, White Empty Background (so that you can change the sign background color to white directly)
-
-### Changed
-- Deleted some unused images.</ChangeLog>
+- Layouts: RoadInfo signs in white background, Direction signs on both side</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshots_1.jpg" />
   <Screenshot Value="Screenshots\Screenshots_2.jpg" />
@@ -75,6 +72,7 @@ There might be some differences for pre-layouts, but you can simply adjust manua
   <Screenshot Value="Screenshots\Screenshots_8.jpg" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
   <ExternalLink Type="github" Url="https://github.com/baipin/HongKongsigns" />
+  <ExternalLink Type="youtube" Url="https://youtu.be/F7t5pGg3YiE" />
   <ExternalLink Type="kofi" Url="https://ko-fi.com/baipin" />
   <ExternalLink Type="buymeacoffee" Url="https://buymeacoffee.com/baipin" />
 </Publish>
