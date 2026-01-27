@@ -56,19 +56,14 @@ There might be some differences for pre-layouts, but you can simply adjust manua
 [China Signs Pack](https://mods.paradoxplaza.com/mods/127887/Windows)</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-hong-kong-signs-pack-write-everywhere.1881255/" />
-  <ModVersion Value="1.2.0" />
+  <ModVersion Value="1.2.1" />
   <GameVersion Value="1.5.*" />
-  <ChangeLog>**v1.2.0**
+  <ChangeLog>**v1.2.1**
 ### Added
-- Layouts: RoadInfo signs in white background, Direction signs on both side.
-- Dynamic message sign with structures prepared.
-- Images: Merge Signs 2to2, Yellow empty signs.
-- NRTB: Bike Lane, Pass Either Side to the same destination.
-- Small Marks: Ocean Park.
+- Layouts: Lanesignal for 1 lane with sign and light; RoadInfo 1 Direction Short; Road Info for highway 2 exits.
 
-### Optimized
-- Change the white rounded corners of some images to transparent.
-- Rename some images to eliminate ambiguity.</ChangeLog>
+### Fixed
+- The bug that the custom speed limit background points to empty.</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshots_1.jpg" />
   <Screenshot Value="Screenshots\Screenshots_2.jpg" />
