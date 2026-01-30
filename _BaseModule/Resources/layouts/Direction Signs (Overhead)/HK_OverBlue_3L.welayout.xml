@@ -94,7 +94,7 @@
       </transform>
       <imageMesh atlas="baipinHongKongsigns:SmallMarks">
         <mesh></mesh>
-        <image>DirectionTunnel</image>
+        <image>Tunnel</image>
       </imageMesh>
       <defaultStyle  renderBackface="true">
         <color>FFFFFFFF</color>

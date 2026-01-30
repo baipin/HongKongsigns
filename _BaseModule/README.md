@@ -25,6 +25,7 @@ For overhead direction signs, you can use one or both of the following assets:
 There might be some differences for pre-layouts, but you can simply adjust manually.
 
 ## How to Use
+[Tutorial Video](https://youtu.be/F7t5pGg3YiE)  
 1️⃣Install "Write Everywhere" first.(See link below)  
 2️⃣Place a road structure (e.g. "European No Entry sign" for Round Micro Signs) that matches your sign type.  
    See [List for Layouts](https://github.com/baipin/HongKongsigns#List) for details.  
