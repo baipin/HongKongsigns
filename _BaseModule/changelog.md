@@ -1,11 +1,13 @@
-**v1.2.2**
+**v1.2.3**
 ### Added
-- Signs: Passing place, Sharp deviation£¨Small), Small Direction Signs.
-- Rewrite the layouts for some direction signs.
-- Empty background in yellow. Now you can create road works sign easily.
+- Layouts for 3L lanesignal.
+- Layouts for exit forecast(Short Arrow).
+- New folder: Marks Combination: including Route Number, Exit Number, Guildford Sign and so on. Now you can add them directly.
+- Temporary signs for round and triangle.
+- Rewrite some layouts to beautify.
 
 ### Fixed
-- The bug that the Tunnel image in 3Lane Overhead sign points to empty.
+- The bug that some warning sign disappear due to the image pix is out of the limit in a single folder.
 
 ### Optimized
 - Change the white rounded corners of some images to transparent.
