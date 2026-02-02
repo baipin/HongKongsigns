@@ -1,13 +1,4 @@
-**v1.2.3**
-### Added
-- Layouts for 3L lanesignal.
-- Layouts for exit forecast(Short Arrow).
-- New folder: Marks Combination: including Route Number, Exit Number, Guildford Sign and so on. Now you can add them directly.
-- Temporary signs for round and triangle.
-- Rewrite some layouts to beautify.
+**v1.2.4**
 
-### Fixed
-- The bug that some warning sign disappear due to the image pix is out of the limit in a single folder.
-
-### Optimized
-- Change the white rounded corners of some images to transparent.
+### Hot Fixed
+- A hot fix for a small error in v1.2.3. (The file "arrow + exit no" lost in the "mark combination" folder.)
