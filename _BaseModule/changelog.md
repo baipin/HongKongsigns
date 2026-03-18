@@ -1,4 +1,10 @@
-**v1.2.4.1**
+**v1.2.5**
 
-### Hot Fixed
-- A hot fix for a small error in v1.2.3. (The bug that some warning signs disappear due to the image pix is out of the limit in a single folder.)
+### Added
+- Layout for exit prediction sign set next to the road.
+
+### Optimized
+- Remake the image for the red cross of the lane signal.
+
+### Fixed
+- The bug that STOP sign disappear due to the image pix is out of the limit in a single folder.
